@@ -1611,3 +1611,17 @@ Script call stack:
 [2021.05.27-07.49.38:993][706]AssetCheck: New page: Asset Save: multiple assets
 [2021.05.27-07.49.38:993][706]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Outline/Outline_Skyrim_BuiltData.Outline_Skyrim_BuiltData
 [2021.05.27-07.49.38:993][706]LogContentValidation: Display: Validating World /Game/Outline/Outline_Skyrim.Outline_Skyrim
+[2021.05.27-07.54.39:763][709]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.05.27-07.54.39:912][709]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Outline_SkyrimC12EE9A44D228D1DC69EC3913896131A.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/Outline/Outline_Skyrim.umap'
+[2021.05.27-07.54.40:378][709]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Outline_Skyrim_BuiltData1B878E0C47641E6127EB16AFBA0108FB.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/Outline/Outline_Skyrim_BuiltData.uasset'
+[2021.05.27-07.54.40:396][709]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.27-07.54.40:396][709]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Outline/Outline_Skyrim_BuiltData.Outline_Skyrim_BuiltData
+[2021.05.27-07.54.40:396][709]LogContentValidation: Display: Validating World /Game/Outline/Outline_Skyrim.Outline_Skyrim
+[2021.05.27-07.54.42:699][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.05.27-07.54.42:716][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Skyrim/guziol" FILE="../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/BP_Skyrim/guziol.uasset" SILENT=true
+[2021.05.27-07.54.42:735][848]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/guziol777BE3974E1C2DF1554919A91C3C9244.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/BP_Skyrim/guziol.uasset'
+[2021.05.27-07.54.42:736][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Skyrim/BP_Puzzle" FILE="../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/BP_Skyrim/BP_Puzzle.uasset" SILENT=true
+[2021.05.27-07.54.42:780][848]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/BP_PuzzleE1F3D9344DFD094FDA6AF19783DBDAB2.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/BP_Skyrim/BP_Puzzle.uasset'
+[2021.05.27-07.54.42:793][848]AssetCheck: New page: Asset Save: multiple assets
+[2021.05.27-07.54.42:793][848]LogContentValidation: Display: Validating Blueprint /Game/BP_Skyrim/BP_Puzzle.BP_Puzzle
+[2021.05.27-07.54.42:793][848]LogContentValidation: Display: Validating Blueprint /Game/BP_Skyrim/guziol.guziol
