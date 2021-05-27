@@ -1,0 +1,1729 @@
+﻿Log file open, 05/25/21 15:16:23
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: MazeProto
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.250087
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/Shedo/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2004) (), CPU: AMD Ryzen 7 4800H with Radeon Graphics         , GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Engine.ini]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Engine.ini]
+[2021.05.25-13.16.24:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Engine.ini]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.05.25-13.16.24:917][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Engine.ini]
+[2021.05.25-13.16.24:918][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.05.25-13.16.24:918][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.05.25-13.16.24:918][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.05.25-13.16.24:918][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.05.25-13.16.24:918][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.05.25-13.16.24:918][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.05.25-13.16.24:918][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.05.25-13.16.24:918][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.05.25-13.16.24:918][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.05.25-13.16.24:918][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.05.25-13.16.24:918][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.05.25-13.16.24:918][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.05.25-13.16.24:918][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.05.25-13.16.24:918][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.05.25-13.16.24:918][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Engine.ini]
+[2021.05.25-13.16.24:918][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Engine.ini]
+[2021.05.25-13.16.24:922][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.25-13.16.24:922][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.25-13.16.24:923][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.25-13.16.24:923][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.05.25-13.16.24:923][  0]LogHAL: Display: Platform has ~ 16 GB [17042837504 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.05.25-13.16.24:923][  0]LogInit: Going up to parent DeviceProfile []
+[2021.05.25-13.16.24:923][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.05.25-13.16.24:923][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Scalability.ini]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.05.25-13.16.24:924][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.05.25-13.16.24:925][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.05.25-13.16.24:925][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.05.25-13.16.24:925][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.05.25-13.16.24:925][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Engine.ini]
+[2021.05.25-13.16.24:925][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Config/Windows/Editor.ini]
+[2021.05.25-13.16.24:926][  0]LogInit: Computer: LAPTOP-68JN2FN6
+[2021.05.25-13.16.24:926][  0]LogInit: User: Shedo
+[2021.05.25-13.16.24:926][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.05.25-13.16.24:926][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.05.25-13.16.24:926][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.05.25-13.16.24:926][  0]LogMemory: Platform Memory Stats for Windows
+[2021.05.25-13.16.24:926][  0]LogMemory: Process Physical Memory: 141.14 MB used, 141.14 MB peak
+[2021.05.25-13.16.24:926][  0]LogMemory: Process Virtual Memory: 117.65 MB used, 117.65 MB peak
+[2021.05.25-13.16.24:926][  0]LogMemory: Physical Memory: 7901.09 MB used,  8352.22 MB free, 16253.32 MB total
+[2021.05.25-13.16.24:926][  0]LogMemory: Virtual Memory: 134206336.00 MB used,  11395.43 MB free, 134217728.00 MB total
+[2021.05.25-13.16.24:932][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.05.25-13.16.24:978][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.05.25-13.16.24:984][  0]LogInit: Using OS detected language (pl-PL).
+[2021.05.25-13.16.24:984][  0]LogInit: Using OS detected locale (pl-PL).
+[2021.05.25-13.16.24:998][  0]LogTextLocalizationManager: No specific localization for 'pl-PL' exists, so the 'pl' localization will be used.
+[2021.05.25-13.16.24:998][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/pl/Editor.locres' could not be opened for reading!
+[2021.05.25-13.16.24:998][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/pl/EditorTutorials.locres' could not be opened for reading!
+[2021.05.25-13.16.24:999][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/pl/Keywords.locres' could not be opened for reading!
+[2021.05.25-13.16.24:999][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/pl/Category.locres' could not be opened for reading!
+[2021.05.25-13.16.24:999][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/pl/ToolTips.locres' could not be opened for reading!
+[2021.05.25-13.16.24:999][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/pl/PropertyNames.locres' could not be opened for reading!
+[2021.05.25-13.16.25:000][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/pl/Engine.locres' could not be opened for reading!
+[2021.05.25-13.16.25:027][  0]LogInit: Setting process to per monitor DPI aware
+[2021.05.25-13.16.25:051][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.05.25-13.16.25:091][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.05.25-13.16.25:091][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.05.25-13.16.28:351][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.25-13.16.28:351][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.05.25-13.16.28:351][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.05.25-13.16.28:351][  0]LogD3D11RHI: D3D11 adapters:
+[2021.05.25-13.16.28:448][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2060' (Feature Level 11_0)
+[2021.05.25-13.16.28:448][  0]LogD3D11RHI:       5980/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.05.25-13.16.28:450][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.05.25-13.16.28:450][  0]LogD3D11RHI:       0/0/8126 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.05.25-13.16.28:450][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.05.25-13.16.28:461][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.05.25-13.16.28:462][  0]LogD3D11RHI:     GPU DeviceId: 0x1f15 (for the marketing name, search the web for "GPU Device Id")
+[2021.05.25-13.16.28:462][  0]LogWindows: EnumDisplayDevices:
+[2021.05.25-13.16.28:462][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2060' (P:1 D:1)
+[2021.05.25-13.16.28:462][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.05.25-13.16.28:462][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.05.25-13.16.28:462][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2060' (P:0 D:0)
+[2021.05.25-13.16.28:462][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.05.25-13.16.28:462][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2060
+[2021.05.25-13.16.28:462][  0]LogD3D11RHI:   Driver Version: 452.56 (internal:27.21.14.5256, unified:452.56)
+[2021.05.25-13.16.28:462][  0]LogD3D11RHI:      Driver Date: 10-19-2020
+[2021.05.25-13.16.28:462][  0]LogRHI: Texture pool is 4186 MB (70% of 5980 MB)
+[2021.05.25-13.16.28:519][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.05.25-13.16.28:520][  0]LogD3D11RHI: Async texture creation enabled
+[2021.05.25-13.16.28:520][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.05.25-13.16.28:534][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.05.25-13.16.28:536][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.05.25-13.16.29:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.05.25-13.16.29:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.05.25-13.16.29:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.05.25-13.16.29:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.05.25-13.16.29:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.05.25-13.16.29:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.05.25-13.16.29:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.05.25-13.16.29:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.05.25-13.16.29:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.05.25-13.16.29:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.05.25-13.16.29:063][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.05.25-13.16.29:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.05.25-13.16.29:092][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.05.25-13.16.29:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.05.25-13.16.29:115][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.05.25-13.16.29:126][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.05.25-13.16.29:136][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.05.25-13.16.29:147][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.05.25-13.16.29:157][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.05.25-13.16.29:167][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.05.25-13.16.29:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.05.25-13.16.29:198][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.05.25-13.16.29:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.05.25-13.16.29:222][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.05.25-13.16.29:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.05.25-13.16.29:243][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.05.25-13.16.29:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.05.25-13.16.29:261][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.05.25-13.16.29:272][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.05.25-13.16.29:283][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.05.25-13.16.29:294][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.05.25-13.16.29:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.05.25-13.16.29:304][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.05.25-13.16.29:320][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.05.25-13.16.29:409][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.05.25-13.16.29:410][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Intermediate/Shaders/WorkingDirectory/22228/).
+[2021.05.25-13.16.29:410][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Shedo/AppData/Local/Temp/UnrealShaderWorkingDir/FCFBD7F449A5537761CF6DB849161637/'.
+[2021.05.25-13.16.29:410][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.05.25-13.16.29:410][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.05.25-13.16.30:057][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.05.25-13.16.30:170][  0]LogDerivedDataCache: Loaded boot cache 0.11s 97MB C:/Users/Shedo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.25-13.16.30:170][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Shedo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.05.25-13.16.30:170][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.05.25-13.16.30:170][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.05.25-13.16.30:170][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.25-13.16.30:170][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.05.25-13.16.30:182][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.05.25-13.16.30:182][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.05.25-13.16.30:182][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.05.25-13.16.30:199][  0]LogDerivedDataCache: Speed tests for C:/Users/Shedo/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.05.25-13.16.30:199][  0]LogDerivedDataCache: Display: Performance to C:/Users/Shedo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.06ms. RandomReadSpeed=103.22MBs, RandomWriteSpeed=132.35MBs. Assigned SpeedClass 'Local'
+[2021.05.25-13.16.30:199][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Shedo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.05.25-13.16.30:199][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.05.25-13.16.30:199][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.05.25-13.16.30:239][  0]LogSlate: Using FreeType 2.10.0
+[2021.05.25-13.16.30:251][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.05.25-13.16.30:275][  0]LogAssetRegistry: FAssetRegistry took 0.0033 seconds to start up
+[2021.05.25-13.16.30:493][  0]LogInit: Selected Device Profile: [Windows]
+[2021.05.25-13.16.30:493][  0]LogInit: Active device profile: [00000236FF2F5B00][00000236F84BEAC0 49] Windows
+[2021.05.25-13.16.30:493][  0]LogInit: Profiles: [00000236FF2F5B00][00000236F84BEAC0 49] Windows, [00000236FF2BE500][00000236F84C6C40 49] WindowsNoEditor, [00000236FF2F5D00][00000236F84CADC0 49] WindowsServer, [00000236FF2BCC00][00000236F84CEF40 49] WindowsClient, [00000236FF2F4E00][00000236F84D30C0 49] IOS, [00000236FF2BF600][00000236F84D7240 49] iPadAir, [00000236FF2F7000][00000236F84DB3C0 49] iPadAir2, [00000236FF26EB00][00000236F84C3640 49] IPadPro, [00000236FF26EC00][00000236F7DD3680 49] iPadAir3, [00000236FF2F5200][00000236F7DD77C0 49] iPadAir4, [00000236FF26E800][00000236F7DDB900 49] iPadMini2, [00000236FF2F7100][00000236F7DE3A80 49] iPadMini3, [00000236FF26D800][00000236F7DE7C00 49] iPadMini4, [00000236FF2F6A00][00000236F7DEA0C0 49] iPadMini5, [00000236FF296400][00000236F7DF2380 49] iPhone6, [00000236FF296500][00000236F7DEE3C0 49] iPodTouch6, [00000236FF2BC200][00000236F7DFA680 49] iPhone7, [00000236FF2BC500][00000236F7DF66C0 49] iPodTouch7, [00000236FF297C00][00000236F7DFE840 49] iPhone5S, [00000236FF2BFE00][00000236F7E029C0 49] iPhone6Plus, [00000236FF295600][00000236F7E06B40 49] iPhone6S, [00000236FF2BDE00][00000236F7E0ACC0 49] iPhone6SPlus, [00000236FF294700][00000236F7E0EE40 49] iPhone7Plus, [00000236FF2BD100][00000236F7E12FC0 49] iPhoneSE, [00000236FF297400][00000236F7E17140 49] iPhone8, [00000236FF2BFF00][00000236F7E1B2C0 49] iPhone8Plus, [00000236FF294200][00000236F7E1F440 49] iPhoneX, [00000236FF2BEB00][00000236F7E235C0 49] iPhoneXS, [00000236FF296F00][00000236F7DDF700 49] iPhoneXSMax, [00000236FF2BE600][00000236F7E27840 49] iPhoneXR, [00000236FF294D00][00000236F7E2B980 49] iPhone11, [00000236FF2BE800][00000236F7E2FAC0 49] iPhone11Pro, [00000236FF297200][00000236F7E37C40 49] iPhone11ProMax, [00000236FF2BF900][00000236F7E3A100 49] iPhoneSE2, [00000236FF296D00][00000236F7E3E280 49] iPhone12Mini, [00000236FF2BC100][00000236F7E42400 49] iPhone12, [00000236FF2BCA00][00000236F7E46580 49] iPhone12Pro, [00000236FF2F7500][00000236F7E4A700 49] iPhone12ProMax, [00000236FF2F6400][00000236F7E4E880 49] iPadPro105, [00000236FF295200][00000236F7E52A00 49] iPadPro129, [00000236FF2F6000][00000236F7E56B80 49] iPadPro97, [00000236FF296100][00000236F7E5AD00 49] iPadPro2_129, [00000236FF2F4D00][00000236F7E5EE80 49] iPad5, [00000236FF297500][00000236F7E63000 49] iPad6, [00000236FF2F7F00][00000236F7E67180 49] iPad7, [00000236FF297800][00000236F7E6B300 49] iPad8, [00000236FF2BEE00][00000236F7E6F480 49] iPadPro11, [00000236FF294400][00000236F7E73600 49] iPadPro2_11, [00000236FF2BCF00][00000236F7E33740 49] iPadPro3_129, [00000236FF295B00][00000236F7E77880 49] iPadPro4_129, [00000236FF2BDD00][00000236F7E7B9C0 49] AppleTV, [00000236FF294600][00000236F7E7FB00 49] AppleTV4K, [00000236FF2BE300][00000236F7E87C80 49] TVOS, [00000236FF294900][00000236F7E8A140 49] Mac, [00000236FF2BCD00][00000236F7E8E2C0 49] MacClient, [00000236FF294100][00000236F7E92440 49] MacNoEditor, [00000236FF2BDB00][00000236F7E965C0 49] MacServer, [00000236FF297700][00000236F7E9A740 49] Linux, [00000236FF2BF200][00000236F7E9E8C0 49] LinuxAArch64, [00000236FF297100][00000236F7EA2A40 49] LinuxNoEditor, [00000236FF2BFC00][00000236F7EA6BC0 49] LinuxAArch64NoEditor, [00000236FF295900][00000236F7EAAD40 49] LinuxClient, [00000236FF2BC600][00000236F7EAEEC0 49] LinuxAArch64Client, [00000236FF296200][00000236F7EB3040 49] LinuxServer, [00000236FF2BD500][00000236F7EB71C0 49] LinuxAArch64Server, [00000236FF297D00][00000236F7EBB340 49] Android, [00000236FF2BC300][00000236F7EBF4C0 49] Android_Low, [00000236FF294C00][00000236F7EC3640 49] Android_Mid, [00000236FF2BC900][00000236F7EC77C0 49] Android_High, [00000236FF296B00][00000236F7E83900 49] Android_Default, [00000236FF2BE100][00000236F7ECBA40 49] Android_Adreno4xx, [00000236FF294800][00000236F7ECFB80 49] Android_Adreno5xx_Low, [00000236FF2BCE00][00000236F7ED7D00 49] Android_Adreno5xx, [00000236FF294E00][00000236F7EDA1C0 49] Android_Adreno6xx, [00000236FF2BD700][00000236F7EDE340 49] Android_Adreno6xx_Vulkan, [00000236FF297A00][00000236F7EE24C0 49] Android_Mali_T6xx, [00000236FF2BFD00][00000236F7EE6640 49] Android_Mali_T7xx, [00000236FF295C00][00000236F7EEA7C0 49] Android_Mali_T8xx, [00000236FF2BC700][00000236F7EEE940 49] Android_Mali_G71, [00000236FF294B00][00000236F7EF2AC0 49] Android_Mali_G72, [00000236FF2BD200][00000236F7EF6C40 49] Android_Mali_G72_Vulkan, [00000236FF295000][00000236F7EFADC0 49] Android_Mali_G76, [00000236FF2BD900][00000236F7EFEF40 49] Android_Mali_G76_Vulkan, [00000236FF294300][00000236F7F030C0 49] Android_Mali_G77, [00000236FF2BF400][00000236F7F07240 49] Android_Mali_G77_Vulkan, [00000236FF295300][00000236F7F0B3C0 49] Android_Vulkan_SM5, [00000236FF2F4B00][00000236F7F0F540 49] Android_PowerVR_G6xxx, [00000236FF26C800][00000236F7F136C0 49] Android_PowerVR_GT7xxx, [00000236FF2F6E00][00000236F7F17840 49] Android_PowerVR_GE8xxx, [00000236FF26E900][00000236F7ED3980 49] Android_PowerVR_GM9xxx, [00000236FF2F6200][00000236F7F1BAC0 49] Android_PowerVR_GM9xxx_Vulkan, [00000236FF26CD00][00000236F7F1FC00 49] Android_TegraK1, [00000236FF2F7300][00000236F7F260C0 49] Android_Unknown_Vulkan, [00000236FF26D400][00000236F7F2A240 49] Lumin, [00000236FF2F6C00][00000236F7F2E3C0 49] Lumin_Desktop, [00000236FF26DB00][00000236F7F32540 49] HoloLens, 
+[2021.05.25-13.16.30:603][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.05.25-13.16.30:603][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.05.25-13.16.30:603][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.05.25-13.16.30:603][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.05.25-13.16.30:603][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.05.25-13.16.30:620][  0]LogNetVersion: MazeProto 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3016515626)
+[2021.05.25-13.16.31:026][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.05.25-13.16.31:088][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.061856 seconds
+[2021.05.25-13.16.31:093][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.05.25-13.16.31:093][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.05.25-13.16.31:093][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.05.25-13.16.31:472][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.05.25-13.16.31:477][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.05.25-13.16.31:737][  0]SourceControl: Source control is disabled
+[2021.05.25-13.16.31:737][  0]SourceControl: Source control is disabled
+[2021.05.25-13.16.31:741][  0]SourceControl: Source control is disabled
+[2021.05.25-13.16.31:749][  0]SourceControl: Source control is disabled
+[2021.05.25-13.16.31:753][  0]SourceControl: Source control is disabled
+[2021.05.25-13.16.31:760][  0]LogUProjectInfo: Found projects:
+[2021.05.25-13.16.32:039][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.05.25-13.16.32:055][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.25-13.16.32:055][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.05.25-13.16.32:149][  0]LogCollectionManager: Loaded 0 collections in 0.001575 seconds
+[2021.05.25-13.16.32:176][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Collections/' took 0.00s
+[2021.05.25-13.16.32:176][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/Developers/Shedo/Collections/' took 0.00s
+[2021.05.25-13.16.32:176][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/Collections/' took 0.00s
+[2021.05.25-13.16.32:176][  0]LogOcInput: OculusInput pre-init called
+[2021.05.25-13.16.32:192][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.05.25-13.16.32:192][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.05.25-13.16.32:248][  0]LogEngine: Initializing Engine...
+[2021.05.25-13.16.32:250][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.05.25-13.16.32:250][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.05.25-13.16.32:251][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.05.25-13.16.32:354][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.05.25-13.16.32:364][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.05.25-13.16.32:370][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.05.25-13.16.32:376][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.05.25-13.16.32:376][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.05.25-13.16.32:376][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-13.16.32:376][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-13.16.32:376][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-13.16.32:376][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-13.16.32:376][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-13.16.32:376][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-13.16.32:376][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-13.16.32:376][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-13.16.32:376][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-13.16.32:376][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-13.16.32:389][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-13.16.32:389][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-13.16.32:639][  0]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.25-13.16.32:640][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-13.16.32:641][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-13.16.32:642][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-13.16.32:643][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-13.16.32:643][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-13.16.32:643][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-13.16.32:644][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-13.16.32:644][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-13.16.32:644][  0]LogInit: FAudioDevice initialized.
+[2021.05.25-13.16.32:645][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.05.25-13.16.32:645][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.05.25-13.16.32:815][  0]LogDerivedDataCache: Saved boot cache 0.17s 77MB C:/Users/Shedo/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.05.25-13.16.32:820][  0]LogInit: Texture streaming: Enabled
+[2021.05.25-13.16.32:851][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.05.25-13.16.32:856][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.05.25-13.16.32:856][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.05.25-13.16.32:860][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.05.25-13.16.32:906][  0]LogInit: Transaction tracking system initialized
+[2021.05.25-13.16.32:939][  0]BlueprintLog: New page: Editor Load
+[2021.05.25-13.16.33:037][  0]LocalizationService: Localization service is disabled
+[2021.05.25-13.16.33:077][  0]TimingProfiler: Initialize
+[2021.05.25-13.16.33:077][  0]TimingProfiler: OnSessionChanged
+[2021.05.25-13.16.33:077][  0]LoadingProfiler: Initialize
+[2021.05.25-13.16.33:077][  0]LoadingProfiler: OnSessionChanged
+[2021.05.25-13.16.33:077][  0]NetworkingProfiler: Initialize
+[2021.05.25-13.16.33:077][  0]NetworkingProfiler: OnSessionChanged
+[2021.05.25-13.16.33:077][  0]MemoryProfiler: Initialize
+[2021.05.25-13.16.33:077][  0]MemoryProfiler: OnSessionChanged
+[2021.05.25-13.16.33:239][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.05.25-13.16.33:239][  0]LogCook: Display: Mobile HDR setting 1
+[2021.05.25-13.16.33:454][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/' took 0.02s
+[2021.05.25-13.16.33:586][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.05.25-13.16.33:591][  0]SourceControl: Source control is disabled
+[2021.05.25-13.16.33:591][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.148
+[2021.05.25-13.16.33:591][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.25-13.16.33:594][  0]LightingResults: New page: Lighting Build
+[2021.05.25-13.16.33:596][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-13.16.33:596][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-13.16.33:596][  0]MapCheck: New page: Map Check
+[2021.05.25-13.16.33:596][  0]LightingResults: New page: Lighting Build
+[2021.05.25-13.16.33:604][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.05.25-13.16.33:663][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.05.25-13.16.33:665][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.05.25-13.16.33:666][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.05.25-13.16.33:669][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.25-13.16.33:674][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.05.25-13.16.33:674][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.25-13.16.33:674][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,263ms to complete.
+[2021.05.25-13.16.33:674][  0]LogFileHelpers: Loading map 'Template_Default' took 0.083
+[2021.05.25-13.16.33:676][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.233
+[2021.05.25-13.16.33:789][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0107 seconds. Added 3601 classes and 859 folders.
+[2021.05.25-13.16.33:795][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.05.25-13.16.33:798][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.25-13.16.33:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.25-13.16.33:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.05.25-13.16.33:800][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.25-13.16.33:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.25-13.16.33:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.05.25-13.16.33:802][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.05.25-13.16.33:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.05.25-13.16.33:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.05.25-13.16.33:804][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.25-13.16.33:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.25-13.16.33:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.05.25-13.16.33:805][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.25-13.16.33:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.25-13.16.33:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.05.25-13.16.33:807][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.25-13.16.33:807][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:807][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.25-13.16.33:807][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.05.25-13.16.33:808][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.25-13.16.33:809][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:809][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.25-13.16.33:809][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.05.25-13.16.33:811][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.25-13.16.33:811][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.25-13.16.33:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.05.25-13.16.33:812][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.25-13.16.33:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.25-13.16.33:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.05.25-13.16.33:814][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.05.25-13.16.33:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.05.25-13.16.33:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.05.25-13.16.33:815][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.05.25-13.16.33:815][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:815][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.05.25-13.16.33:815][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.05.25-13.16.33:816][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.25-13.16.33:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.25-13.16.33:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.05.25-13.16.33:818][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.25-13.16.33:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.25-13.16.33:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.05.25-13.16.33:819][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.25-13.16.33:819][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:819][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.25-13.16.33:819][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.05.25-13.16.33:820][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.05.25-13.16.33:820][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:820][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.05.25-13.16.33:820][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.05.25-13.16.33:822][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.25-13.16.33:822][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:822][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.25-13.16.33:822][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.05.25-13.16.33:823][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.05.25-13.16.33:823][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:823][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.05.25-13.16.33:823][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.05.25-13.16.33:825][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.25-13.16.33:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.25-13.16.33:825][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.05.25-13.16.33:826][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.25-13.16.33:826][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:826][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.25-13.16.33:826][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.05.25-13.16.33:827][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.25-13.16.33:827][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:827][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.25-13.16.33:827][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.05.25-13.16.33:829][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.05.25-13.16.33:829][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:829][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.05.25-13.16.33:829][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.05.25-13.16.33:830][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.05.25-13.16.33:830][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:830][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.05.25-13.16.33:830][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2021.05.25-13.16.33:832][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.05.25-13.16.33:832][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:832][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.05.25-13.16.33:832][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.05.25-13.16.33:833][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.05.25-13.16.33:834][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:834][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.05.25-13.16.33:834][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2021.05.25-13.16.33:835][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.05.25-13.16.33:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.05.25-13.16.33:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2021.05.25-13.16.33:836][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.05.25-13.16.33:836][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.05.25-13.16.33:836][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.05.25-13.16.33:836][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.05.25-13.16.33:945][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.05.25-13.16.33:962][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-13.16.33:967][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-13.16.33:972][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-13.16.33:977][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-13.16.33:981][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.05.25-13.16.34:085][  0]LogSlate: Took 0.001060 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.05.25-13.16.34:087][  0]LogSlate: Took 0.000645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.05.25-13.16.34:089][  0]LogSlate: Took 0.000684 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.05.25-13.16.34:509][  0]LogRenderer: Reallocating scene render targets to support 888x704 Format 10 NumSamples 1 (Frame:1).
+[2021.05.25-13.16.34:586][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.05.25-13.16.34:586][  0]LogLoad: (Engine Initialization) Total time: 12.14 seconds
+[2021.05.25-13.16.34:586][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.05.25-13.16.34:586][  0]LogInit: First time updating LLM stats...
+[2021.05.25-13.16.34:644][  0]LogAssetRegistry: Asset discovery search completed in 4.3691 seconds
+[2021.05.25-13.16.34:645][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.05.25-13.16.34:679][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.05.25-13.16.35:989][  4]LogSlate: Took 0.032575 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.25-13.17.11:252][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.05.25-13.17.12:795][972]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Outline/Outline_Skyrim.Outline_Skyrim
+[2021.05.25-13.17.12:795][972]Cmd: MAP LOAD FILE="../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/Outline/Outline_Skyrim.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.25-13.17.12:795][972]LightingResults: New page: Lighting Build
+[2021.05.25-13.17.12:795][972]LoadErrors: New page: Loading map: Outline_Skyrim.umap
+[2021.05.25-13.17.12:795][972]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-13.17.12:795][972]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-13.17.12:795][972]MapCheck: New page: Map Check
+[2021.05.25-13.17.12:795][972]LightingResults: New page: Lighting Build
+[2021.05.25-13.17.12:800][972]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-13.17.12:804][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.05.25-13.17.12:805][972]LogAudio: Display: Audio Device (ID: 1) registered with world 'Outline_Skyrim'.
+[2021.05.25-13.17.12:895][972]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.25-13.17.12:895][972]LogAIModule: Creating AISystem for world Outline_Skyrim
+[2021.05.25-13.17.12:903][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.05.25-13.17.12:908][972]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.25-13.17.12:908][972]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,22ms to complete.
+[2021.05.25-13.17.12:908][972]LogFileHelpers: Loading map 'Outline_Skyrim' took 0.113
+[2021.05.25-13.17.26:718][791]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.05.25-13.19.08:786][894]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Skyrim/BP_Puzzle.BP_Puzzle
+[2021.05.25-13.19.08:922][894]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 126 classes and 0 folders.
+[2021.05.25-13.19.09:769][894]LogSlate: Took 0.005645 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.05.25-13.19.09:861][895]LogSlate: Took 0.005942 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.05.25-13.22.18:315][ 43]LogRenderer: Reallocating scene render targets to support 992x704 Format 10 NumSamples 1 (Frame:1).
+[2021.05.25-13.22.21:169][209]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Skyrim/FPCharacterSkyrim.FPCharacterSkyrim
+[2021.05.25-13.28.02:786][ 38]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Skyrim/InterractWithPuzzle.InterractWithPuzzle
+[2021.05.25-13.28.10:552][484]LogSlate: Window 'InterractWithPuzzle' being destroyed
+[2021.05.25-13.28.10:557][484]LogSlate: Window 'InterractWithPuzzle' being destroyed
+[2021.05.25-13.28.10:561][484]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-13.28.10:561][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-13.28.35:776][987]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Skyrim/InterractWithPuzzle.InterractWithPuzzle
+[2021.05.25-13.28.39:135][170]LogSlate: Window 'InterractWithPuzzle' being destroyed
+[2021.05.25-13.28.39:145][170]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-13.28.39:146][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-13.37.58:769][724]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.05.25-13.38.01:548][889]LogEditorViewport: Clicking on Actor (LMB): PostProcessVolume (PostProcessVolume)
+[2021.05.25-13.39.04:039][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_20)
+[2021.05.25-13.39.07:732][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_Vines_04)
+[2021.05.25-13.39.14:882][278]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2021.05.25-13.39.16:022][345]LogEditorViewport: Clicking on Actor (CTRL LMB): Emitter (P_FX_Fire4)
+[2021.05.25-13.39.18:359][484]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_Prop_BottleTorch_4)
+[2021.05.25-13.39.40:231][789]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_20)
+[2021.05.25-13.39.40:651][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_54)
+[2021.05.25-13.39.55:226][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Unreal_Water)
+[2021.05.25-13.39.59:325][924]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_54)
+[2021.05.25-13.40.01:941][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_53)
+[2021.05.25-13.40.10:392][573]MapCheck: New page: Map Check
+[2021.05.25-13.40.10:407][573]Cmd: MAP REBUILD ALLVISIBLE
+[2021.05.25-13.40.10:407][573]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.05.25-13.40.10:495][573]LogWorld: UWorld::CleanupWorld for Outline_Skyrim, bSessionEnded=true, bCleanupResources=false
+[2021.05.25-13.40.10:525][573]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.05.25-13.40.10:525][573]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.05.25-13.40.10:525][573]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.05.25-13.40.10:552][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.05.25-13.40.10:557][573]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.25-13.40.10:562][573]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.25-13.40.10:563][573]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.25-13.40.10:564][573]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.25-13.40.10:566][573]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.25-13.40.10:567][573]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.25-13.40.10:568][573]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2021.05.25-13.40.10:568][573]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 9
+[2021.05.25-13.40.10:568][573]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.05.25-13.40.10:568][573]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2021.05.25-13.40.10:568][573]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2021.05.25-13.40.10:568][573]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2021.05.25-13.40.10:568][573]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.05.25-13.40.10:568][573]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2021.05.25-13.40.10:568][573]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 2
+[2021.05.25-13.40.10:568][573]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.05.25-13.40.10:569][573]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.25-13.40.10:570][573]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.25-13.40.10:571][573]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.25-13.40.10:574][573]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.25-13.40.10:576][573]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.05.25-13.40.10:614][573]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 60
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 59
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 58
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 57
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 56
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 55
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 54
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 53
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 52
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 51
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 50
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 49
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 48
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 47
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 46
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 45
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 44
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 43
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 42
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 41
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 40
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 39
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 38
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 37
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 36
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 35
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 34
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 33
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 32
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 31
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 30
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 29
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 28
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 27
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 26
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 25
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 24
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 22
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 21
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 20
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 18
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 17
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 16
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 14
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 13
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 10
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 5
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 4
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.05.25-13.40.13:093][573]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2021.05.25-13.40.13:093][573]TextureStreamingBuild: Display: Compiling optional shaders took 2.539 seconds.
+[2021.05.25-13.40.13:109][573]LogLevel: Display: Export Material TexCoord Scales took 0.015 seconds.
+[2021.05.25-13.40.13:114][573]TextureStreamingBuild: Display: Build Texture Streaming took 0.005 seconds.
+[2021.05.25-13.40.13:133][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.05.25-13.40.13:135][573]LightingResults: New page: Lighting Build - 25 maj 2021, 17:40:13
+[2021.05.25-13.40.13:170][573]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.05.25-13.40.13:231][573]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.05.25-13.40.13:241][573]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.05.25-13.40.13:761][573]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.05.25-13.40.13:761][573]LogSwarmInterface: [TryOpenConnection] Local Process ID is 22228
+[2021.05.25-13.40.20:883][573]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.05.25-13.40.20:883][573]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.05.25-13.40.20:883][573]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.05.25-13.40.20:883][573]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.05.25-13.40.20:883][573]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.05.25-13.40.20:883][573]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.05.25-13.40.21:126][573]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.05.25-13.40.21:126][573]MapCheck: New page: Outline_Skyrim - 25 maj 2021, 17:40:21
+[2021.05.25-13.40.21:127][573]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2021.05.25-13.40.21:128][573]MapCheck: Warning: BP_Puzzle_5 Static mesh actor has NULL StaticMesh property 
+[2021.05.25-13.40.21:129][573]MapCheck: Map check complete: 1 Error(s), 1 Warning(s), took 3,057ms to complete.
+[2021.05.25-13.40.21:132][573]LogEditorBuildUtils: Build time 0:10
+[2021.05.25-13.40.21:504][573]LogSlate: Took 0.007985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.05.25-13.40.21:566][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.05.25-13.40.23:030][633]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-13.40.23:036][633]LogSlate: Window 'Message Log' being destroyed
+[2021.05.25-13.40.27:601][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.05.25-13.40.27:719][802]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Outline_Skyrim_Auto1A9EF5FD94FBBBF10DCCA65812BEEFDFA.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/Outline/Outline_Skyrim_Auto1.umap'
+[2021.05.25-13.40.27:723][802]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Outline/Outline_Skyrim' took 0.151
+[2021.05.25-13.40.27:723][802]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.151
+[2021.05.25-13.40.27:724][802]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Skyrim/FPCharacterSkyrim] ([1] browsable assets)...
+[2021.05.25-13.40.27:725][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Skyrim/FPCharacterSkyrim]
+[2021.05.25-13.40.27:765][802]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/FPCharacterSkyrim_Auto1C216FB754A31D4481579769D3319B948.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/BP_Skyrim/FPCharacterSkyrim_Auto1.uasset'
+[2021.05.25-13.40.27:767][802]LogFileHelpers: Auto-saving content packages took 0.043
+[2021.05.25-13.40.32:574][984]Job is a success!
+[2021.05.25-13.40.32:726][985]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.053s
+[2021.05.25-13.40.32:726][985]LogVolumetricLightmapImport:      Indirection Texture 32x32x16 = 0.1Mb
+[2021.05.25-13.40.32:726][985]LogVolumetricLightmapImport:      BrickData (all levels) 1.0Mb (trimmed 1.9Mb due to 0.010000 MinBrickError)
+[2021.05.25-13.40.32:726][985]LogVolumetricLightmapImport:      Bricks at depth
+[2021.05.25-13.40.32:726][985]LogVolumetricLightmapImport:          0: 1.9% covering 100.0% of volume
+[2021.05.25-13.40.32:726][985]LogVolumetricLightmapImport:          1: 15.0% covering 12.5% of volume
+[2021.05.25-13.40.32:726][985]LogVolumetricLightmapImport:          2: 83.2% covering 1.1% of volume
+[2021.05.25-13.40.32:726][985]LogVolumetricLightmapImport:      Bricks in each level
+[2021.05.25-13.40.32:726][985]LogVolumetricLightmapImport:          Outline_Skyrim 			 214 bricks 	 100.0% (Persistent Level)
+[2021.05.25-13.40.33:761][985]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2021.05.25-13.40.33:761][985]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2021.05.25-13.40.33:761][985]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2021.05.25-13.40.33:761][985]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2021.05.25-13.40.33:761][985]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.05.25-13.40.33:761][985]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.05.25-13.40.33:761][985]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2021.05.25-13.40.33:761][985]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2021.05.25-13.40.33:761][985]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2021.05.25-13.40.33:894][985]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X512)
+[2021.05.25-13.40.33:894][985]LogStaticLightingSystem: Outline_Skyrim_BuiltData storing lightmap data for 367 meshes in 6 LightmapResourceClusters (61.2 Meshes per cluster).
+[2021.05.25-13.40.33:922][985]Lightmass on LAPTOP-68JN2FN6: 11.8 sec total, 592 ms importing, 111 ms setup, 1.39 sec photons, 9.64 sec processing, 0 ms extra exporting [367/367 mappings]. Threads: 2:24 min total, 1:33 min processing.
+[2021.05.25-13.40.33:924][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.05.25-13.40.33:945][985]LogStaticLightingSystem: Illumination: 20.7 sec (869 ms encoding lightmaps, 93 ms encoding shadowmaps)
+[2021.05.25-13.40.33:945][985]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 6 textures
+[2021.05.25-13.40.33:945][985]LogStaticLightingSystem: Shadowmap texture memory: 2.7 MB (2.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2021.05.25-13.40.34:907][985]DumpUnbuiltLightIteractions
+[2021.05.25-13.40.34:907][985]Lights with unbuilt interactions: 0
+[2021.05.25-13.40.34:907][985]
+[2021.05.25-13.40.34:907][985]Primitives with unbuilt interactions: 0
+[2021.05.25-13.40.34:996][986]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.05.25-13.40.34:996][986]MapCheck: New page: Outline_Skyrim - 25 maj 2021, 17:40:34
+[2021.05.25-13.40.34:998][986]MapCheck: Warning: BP_Puzzle_5 Static mesh actor has NULL StaticMesh property 
+[2021.05.25-13.40.34:999][986]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 2,569ms to complete.
+[2021.05.25-13.41.25:757][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Vines_Wall_29)
+[2021.05.25-13.41.29:271][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_14)
+[2021.05.25-13.50.30:574][982]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.05.25-13.50.30:657][982]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Outline_Skyrim_Auto2712918F64F3DAE3EAE93C183B54784DA.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/Outline/Outline_Skyrim_Auto2.umap'
+[2021.05.25-13.50.30:660][982]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Outline/Outline_Skyrim' took 0.108
+[2021.05.25-13.50.30:660][982]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.108
+[2021.05.25-13.51.43:028][ 75]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.05.25-13.52.35:354][173]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Skyrim/lever.lever
+[2021.05.25-14.00.31:084][674]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.05.25-14.00.31:085][674]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Outline/Outline_Skyrim' took 0.071
+[2021.05.25-14.00.31:085][674]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Skyrim/lever] ([1] browsable assets)...
+[2021.05.25-14.00.31:115][674]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Skyrim/lever.lever]
+[2021.05.25-14.00.31:115][674]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Skyrim/lever]
+[2021.05.25-14.00.31:132][674]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/lever_Auto31B9F9D624E2997775D9DF5857C0CA50B.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/BP_Skyrim/lever_Auto3.uasset'
+[2021.05.25-14.00.31:133][674]LogFileHelpers: Auto-saving content packages took 0.048
+[2021.05.25-14.10.12:446][475]LogSlate: Window 'Find Results' being destroyed
+[2021.05.25-14.13.50:591][301]LogEditorTransaction: Undo Move Node
+[2021.05.25-14.13.51:705][356]LogEditorTransaction: Undo Move Node
+[2021.05.25-14.13.52:298][388]LogEditorTransaction: Undo Paste clipboard contents
+[2021.05.25-14.14.19:290][996]BlueprintLog: New page: Compile FPCharacterSkyrim
+[2021.05.25-14.14.19:376][996]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.05.25-14.14.45:413][553]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.05.25-14.14.45:495][553]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Outline_Skyrim_Auto4FE194CA042CAFA16C791B388328637F8.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/Outline/Outline_Skyrim_Auto4.umap'
+[2021.05.25-14.14.45:497][553]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Outline/Outline_Skyrim' took 0.112
+[2021.05.25-14.14.45:497][553]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.112
+[2021.05.25-14.14.45:498][553]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Skyrim/FPCharacterSkyrim] ([1] browsable assets)...
+[2021.05.25-14.14.45:498][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Skyrim/FPCharacterSkyrim]
+[2021.05.25-14.14.45:527][553]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/FPCharacterSkyrim_Auto4910550A54399E0B06FBF66AA584AFC33.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/BP_Skyrim/FPCharacterSkyrim_Auto4.uasset'
+[2021.05.25-14.14.45:528][553]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Skyrim/lever] ([1] browsable assets)...
+[2021.05.25-14.14.45:546][553]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Skyrim/lever.lever]
+[2021.05.25-14.14.45:546][553]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Skyrim/lever]
+[2021.05.25-14.14.45:563][553]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/lever_Auto4D19BCA524154EA183F1DA389B10406C7.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/BP_Skyrim/lever_Auto4.uasset'
+[2021.05.25-14.14.45:564][553]LogFileHelpers: Auto-saving content packages took 0.066
+[2021.05.25-14.15.30:974][751]LogSlate: Window 'New Channel' being destroyed
+[2021.05.25-14.17.18:408][849]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'USceneComponent::K2_GetComponentLocation' [Nie można odnaleźć elementu.]
+[2021.05.25-14.17.58:046][878]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::Add_VectorVector' [Nie można odnaleźć elementu.]
+[2021.05.25-14.20.06:000][118]BlueprintLog: New page: Compile FPCharacterSkyrim
+[2021.05.25-14.20.06:057][118]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.05.25-14.20.08:586][265]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-14.20.08:593][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-14.20.08:593][265]PIE: New page: PIE session: Outline_Skyrim (25 maj 2021, 18:20:08)
+[2021.05.25-14.20.08:595][265]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.05.25-14.20.08:597][265]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.05.25-14.20.08:597][265]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.20.08:619][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021629s)
+[2021.05.25-14.20.08:619][265]LogAIModule: Creating AISystem for world Outline_Skyrim
+[2021.05.25-14.20.08:620][265]LogPlayLevel: PIE: World Init took: (0.001018s)
+[2021.05.25-14.20.08:620][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Skyrim.Outline_Skyrim to /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim (0.022822s)
+[2021.05.25-14.20.08:647][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.05.25-14.20.08:648][265]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.05.25-14.20.08:648][265]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-14.20.08:648][265]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-14.20.08:648][265]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-14.20.08:648][265]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-14.20.08:648][265]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-14.20.08:648][265]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-14.20.08:648][265]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-14.20.08:648][265]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-14.20.08:649][265]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-14.20.08:649][265]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-14.20.08:651][265]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-14.20.08:651][265]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-14.20.08:668][265]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.25-14.20.08:668][265]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-14.20.08:668][265]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-14.20.08:668][265]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-14.20.08:669][265]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-14.20.08:669][265]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-14.20.08:669][265]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-14.20.08:695][265]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-14.20.08:695][265]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-14.20.08:695][265]LogInit: FAudioDevice initialized.
+[2021.05.25-14.20.08:695][265]LogAudio: Display: Audio Device (ID: 2) registered with world 'Outline_Skyrim'.
+[2021.05.25-14.20.08:725][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.20.08:725][265]LogLoad: Game class is 'MazeGameMode_C'
+[2021.05.25-14.20.08:734][265]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim up for play (max tick rate 60) at 2021.05.25-16.20.08
+[2021.05.25-14.20.08:735][265]LogWorld: Bringing up level for play took: 0.008082
+[2021.05.25-14.20.08:735][265]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.05.25-14.20.08:737][265]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.25-14.20.08:749][265]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2021.05.25-14.20.08:750][265]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-14.20.08:752][265]PIE: Server logged in
+[2021.05.25-14.20.08:753][265]PIE: Play in editor total start time 0,162 seconds.
+[2021.05.25-14.20.08:817][266]LogRenderer: Reallocating scene render targets to support 1528x792 Format 10 NumSamples 1 (Frame:1).
+[2021.05.25-14.20.10:835][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.20.10:835][371]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.20.10:836][371]LogSlate: Window 'MazeProto Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.25-14.20.10:844][371]LogWorld: UWorld::CleanupWorld for Outline_Skyrim, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-14.20.10:846][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.20.10:858][371]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-14.20.10:877][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.20.10:903][371]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-14.20.10:905][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.20.10:906][371]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.20.10:957][371]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.05.25-14.20.10:984][372]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.05.25-14.20.22:551][ 47]BlueprintLog: New page: Compile FPCharacterSkyrim
+[2021.05.25-14.20.22:617][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2021.05.25-14.20.23:238][ 80]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-14.20.23:247][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-14.20.23:247][ 80]PIE: New page: PIE session: Outline_Skyrim (25 maj 2021, 18:20:23)
+[2021.05.25-14.20.23:247][ 80]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.20.23:267][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019816s)
+[2021.05.25-14.20.23:268][ 80]LogAIModule: Creating AISystem for world Outline_Skyrim
+[2021.05.25-14.20.23:269][ 80]LogPlayLevel: PIE: World Init took: (0.000997s)
+[2021.05.25-14.20.23:269][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Skyrim.Outline_Skyrim to /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim (0.020952s)
+[2021.05.25-14.20.23:298][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.05.25-14.20.23:299][ 80]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.05.25-14.20.23:299][ 80]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-14.20.23:299][ 80]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-14.20.23:299][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-14.20.23:299][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-14.20.23:299][ 80]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-14.20.23:299][ 80]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-14.20.23:299][ 80]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-14.20.23:299][ 80]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-14.20.23:299][ 80]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-14.20.23:299][ 80]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-14.20.23:301][ 80]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-14.20.23:301][ 80]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-14.20.23:316][ 80]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.25-14.20.23:317][ 80]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-14.20.23:317][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-14.20.23:317][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-14.20.23:317][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-14.20.23:317][ 80]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-14.20.23:317][ 80]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-14.20.23:338][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-14.20.23:338][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-14.20.23:338][ 80]LogInit: FAudioDevice initialized.
+[2021.05.25-14.20.23:338][ 80]LogAudio: Display: Audio Device (ID: 3) registered with world 'Outline_Skyrim'.
+[2021.05.25-14.20.23:366][ 80]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.20.23:366][ 80]LogLoad: Game class is 'MazeGameMode_C'
+[2021.05.25-14.20.23:376][ 80]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim up for play (max tick rate 60) at 2021.05.25-16.20.23
+[2021.05.25-14.20.23:376][ 80]LogWorld: Bringing up level for play took: 0.008694
+[2021.05.25-14.20.23:376][ 80]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.05.25-14.20.23:378][ 80]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.25-14.20.23:379][ 80]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-14.20.23:381][ 80]PIE: Server logged in
+[2021.05.25-14.20.23:382][ 80]PIE: Play in editor total start time 0,137 seconds.
+[2021.05.25-14.20.28:958][403]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.20.28:958][403]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.20.28:959][403]LogSlate: Window 'MazeProto Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.25-14.20.28:967][403]LogWorld: UWorld::CleanupWorld for Outline_Skyrim, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-14.20.28:969][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.20.28:978][403]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-14.20.28:999][403]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.20.29:025][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.20.29:026][403]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.20.29:055][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2021.05.25-14.20.29:079][404]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.05.25-14.22.06:010][993]BlueprintLog: New page: Compile FPCharacterSkyrim
+[2021.05.25-14.22.06:069][993]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2021.05.25-14.22.06:783][ 31]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-14.22.06:790][ 31]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-14.22.06:790][ 31]PIE: New page: PIE session: Outline_Skyrim (25 maj 2021, 18:22:06)
+[2021.05.25-14.22.06:790][ 31]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.22.06:809][ 31]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018911s)
+[2021.05.25-14.22.06:810][ 31]LogAIModule: Creating AISystem for world Outline_Skyrim
+[2021.05.25-14.22.06:810][ 31]LogPlayLevel: PIE: World Init took: (0.000966s)
+[2021.05.25-14.22.06:810][ 31]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Skyrim.Outline_Skyrim to /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim (0.020028s)
+[2021.05.25-14.22.06:842][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2021.05.25-14.22.06:842][ 31]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.05.25-14.22.06:842][ 31]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-14.22.06:842][ 31]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-14.22.06:842][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-14.22.06:842][ 31]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-14.22.06:842][ 31]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-14.22.06:842][ 31]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-14.22.06:842][ 31]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-14.22.06:842][ 31]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-14.22.06:842][ 31]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-14.22.06:843][ 31]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-14.22.06:846][ 31]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-14.22.06:846][ 31]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-14.22.06:862][ 31]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.25-14.22.06:862][ 31]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-14.22.06:862][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-14.22.06:862][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-14.22.06:863][ 31]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-14.22.06:863][ 31]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-14.22.06:863][ 31]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-14.22.06:888][ 31]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-14.22.06:888][ 31]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-14.22.06:888][ 31]LogInit: FAudioDevice initialized.
+[2021.05.25-14.22.06:888][ 31]LogAudio: Display: Audio Device (ID: 4) registered with world 'Outline_Skyrim'.
+[2021.05.25-14.22.06:915][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.22.06:916][ 31]LogLoad: Game class is 'MazeGameMode_C'
+[2021.05.25-14.22.06:924][ 31]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim up for play (max tick rate 60) at 2021.05.25-16.22.06
+[2021.05.25-14.22.06:925][ 31]LogWorld: Bringing up level for play took: 0.007967
+[2021.05.25-14.22.06:925][ 31]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.05.25-14.22.06:926][ 31]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.25-14.22.06:927][ 31]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-14.22.06:929][ 31]PIE: Server logged in
+[2021.05.25-14.22.06:931][ 31]PIE: Play in editor total start time 0,143 seconds.
+[2021.05.25-14.22.11:423][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.22.11:423][288]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.22.11:423][288]LogSlate: Window 'MazeProto Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.25-14.22.11:432][288]LogWorld: UWorld::CleanupWorld for Outline_Skyrim, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-14.22.11:433][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.22.11:442][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-14.22.11:462][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.22.11:488][288]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-14.22.11:488][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.22.11:489][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.22.11:519][288]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2021.05.25-14.22.11:545][289]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.05.25-14.24.32:335][710]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Skyrim/lever_2.lever_2
+[2021.05.25-14.24.37:673][  5]BlueprintLog: New page: Compile lever_2
+[2021.05.25-14.24.37:731][  5]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.05.25-14.24.41:218][210]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-14.24.41:225][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-14.24.41:225][210]PIE: New page: PIE session: Outline_Skyrim (25 maj 2021, 18:24:41)
+[2021.05.25-14.24.41:225][210]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.24.41:245][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019848s)
+[2021.05.25-14.24.41:246][210]LogAIModule: Creating AISystem for world Outline_Skyrim
+[2021.05.25-14.24.41:246][210]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2021.05.25-14.24.41:246][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Skyrim.Outline_Skyrim to /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim (0.021115s)
+[2021.05.25-14.24.41:280][210]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2021.05.25-14.24.41:281][210]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.05.25-14.24.41:281][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-14.24.41:281][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-14.24.41:281][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-14.24.41:281][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-14.24.41:281][210]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-14.24.41:281][210]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-14.24.41:281][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-14.24.41:281][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-14.24.41:281][210]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-14.24.41:281][210]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-14.24.41:284][210]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-14.24.41:284][210]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-14.24.41:300][210]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.25-14.24.41:300][210]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-14.24.41:300][210]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-14.24.41:300][210]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-14.24.41:301][210]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-14.24.41:301][210]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-14.24.41:301][210]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-14.24.41:326][210]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-14.24.41:326][210]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-14.24.41:326][210]LogInit: FAudioDevice initialized.
+[2021.05.25-14.24.41:326][210]LogAudio: Display: Audio Device (ID: 5) registered with world 'Outline_Skyrim'.
+[2021.05.25-14.24.41:357][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.24.41:357][210]LogLoad: Game class is 'MazeGameMode_C'
+[2021.05.25-14.24.41:367][210]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim up for play (max tick rate 60) at 2021.05.25-16.24.41
+[2021.05.25-14.24.41:367][210]LogWorld: Bringing up level for play took: 0.009420
+[2021.05.25-14.24.41:367][210]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.05.25-14.24.41:369][210]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.25-14.24.41:370][210]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-14.24.41:371][210]PIE: Server logged in
+[2021.05.25-14.24.41:373][210]PIE: Play in editor total start time 0,15 seconds.
+[2021.05.25-14.24.46:494][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.24.46:494][505]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.24.46:495][505]LogSlate: Window 'MazeProto Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.25-14.24.46:502][505]LogWorld: UWorld::CleanupWorld for Outline_Skyrim, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-14.24.46:504][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.24.46:517][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-14.24.46:537][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.24.46:567][505]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-14.24.46:567][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.24.46:568][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.24.46:596][505]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.05.25-14.24.46:612][506]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.05.25-14.25.15:822][931]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.05.25-14.25.15:905][931]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Outline_Skyrim_Auto536E932BA4C8C318837BD3180C7F097FC.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/Outline/Outline_Skyrim_Auto5.umap'
+[2021.05.25-14.25.15:908][931]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Outline/Outline_Skyrim' took 0.118
+[2021.05.25-14.25.15:908][931]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.118
+[2021.05.25-14.25.15:908][931]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Skyrim/FPCharacterSkyrim] ([1] browsable assets)...
+[2021.05.25-14.25.15:908][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Skyrim/FPCharacterSkyrim]
+[2021.05.25-14.25.15:940][931]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/FPCharacterSkyrim_Auto51FCF514548D4335113255DB02D89CD0D.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/BP_Skyrim/FPCharacterSkyrim_Auto5.uasset'
+[2021.05.25-14.25.15:942][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Skyrim/lever] ([1] browsable assets)...
+[2021.05.25-14.25.15:975][931]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Skyrim/lever.lever]
+[2021.05.25-14.25.15:975][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Skyrim/lever]
+[2021.05.25-14.25.15:992][931]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/lever_Auto5BD167C994CAAE97CD89DEDBC1BACA3E2.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/BP_Skyrim/lever_Auto5.uasset'
+[2021.05.25-14.25.15:993][931]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Skyrim/lever_2] ([1] browsable assets)...
+[2021.05.25-14.25.16:015][931]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Skyrim/lever_2.lever_2]
+[2021.05.25-14.25.16:015][931]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Skyrim/lever_2]
+[2021.05.25-14.25.16:032][931]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/lever_2_Auto5FB6341594D7F0DF564331D8F9A21E4AE.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/BP_Skyrim/lever_2_Auto5.uasset'
+[2021.05.25-14.25.16:033][931]LogFileHelpers: Auto-saving content packages took 0.125
+[2021.05.25-14.32.00:628][ 33]BlueprintLog: New page: Compile FPCharacterSkyrim
+[2021.05.25-14.32.00:700][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.05.25-14.32.01:134][ 51]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/FPCharacterSkyrimDB99FED44FFF13CE27F9938FCB6771F4.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/BP_Skyrim/FPCharacterSkyrim.uasset'
+[2021.05.25-14.32.01:160][ 51]AssetCheck: New page: Asset Save: FPCharacterSkyrim
+[2021.05.25-14.32.01:160][ 51]LogContentValidation: Display: Validating Blueprint /Game/BP_Skyrim/FPCharacterSkyrim.FPCharacterSkyrim
+[2021.05.25-14.33.39:612][887]LogEditorTransaction: Undo Paste Component(s)
+[2021.05.25-14.33.47:271][333]LogEditorTransaction: Undo Modify Component(s)
+[2021.05.25-14.35.22:041][968]LogEditorTransaction: Undo Modify Component(s)
+[2021.05.25-14.35.23:049][ 13]LogEditorTransaction: Undo Modify Component(s)
+[2021.05.25-14.37.25:020][372]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.05.25-14.37.25:101][372]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Outline_Skyrim_Auto6AD09E9814B824D3C366955A9B318E4E8.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/Outline/Outline_Skyrim_Auto6.umap'
+[2021.05.25-14.37.25:105][372]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Outline/Outline_Skyrim' took 0.139
+[2021.05.25-14.37.25:105][372]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.139
+[2021.05.25-14.37.25:105][372]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Skyrim/BP_Puzzle] ([2] browsable assets)...
+[2021.05.25-14.37.25:119][372]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Skyrim/BP_Puzzle.BP_Puzzle]
+[2021.05.25-14.37.25:130][372]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Skyrim/BP_Puzzle.BP_Puzzle]
+[2021.05.25-14.37.25:130][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Skyrim/BP_Puzzle]
+[2021.05.25-14.37.25:167][372]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/BP_Puzzle_Auto69C448D5A45C5750205BD2EB1E0DDBE29.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/BP_Skyrim/BP_Puzzle_Auto6.uasset'
+[2021.05.25-14.37.25:168][372]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Skyrim/lever] ([1] browsable assets)...
+[2021.05.25-14.37.25:179][372]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Skyrim/lever.lever]
+[2021.05.25-14.37.25:179][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Skyrim/lever]
+[2021.05.25-14.37.25:196][372]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/lever_Auto6AB1E78754ED580F307DAF3A803D273E2.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/BP_Skyrim/lever_Auto6.uasset'
+[2021.05.25-14.37.25:197][372]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Skyrim/lever_2] ([1] browsable assets)...
+[2021.05.25-14.37.25:209][372]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Skyrim/lever_2.lever_2]
+[2021.05.25-14.37.25:209][372]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Skyrim/lever_2]
+[2021.05.25-14.37.25:228][372]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/lever_2_Auto62F97EA474C63D093B52F0A953A21AD9A.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/BP_Skyrim/lever_2_Auto6.uasset'
+[2021.05.25-14.37.25:229][372]LogFileHelpers: Auto-saving content packages took 0.124
+[2021.05.25-14.37.58:318][852]BlueprintLog: New page: Compile BP_Puzzle
+[2021.05.25-14.37.58:395][852]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.05.25-14.42.49:227][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Skyrim/BP_Puzzle" FILE="../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/BP_Skyrim/BP_Puzzle.uasset" SILENT=true
+[2021.05.25-14.42.49:263][ 34]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/BP_PuzzleC525B493415446DEAACECB9C5392C042.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/BP_Skyrim/BP_Puzzle.uasset'
+[2021.05.25-14.42.49:280][ 34]AssetCheck: New page: Asset Save: BP_Puzzle
+[2021.05.25-14.42.49:280][ 34]LogContentValidation: Display: Validating Blueprint /Game/BP_Skyrim/BP_Puzzle.BP_Puzzle
+[2021.05.25-14.47.32:581][ 53]BlueprintLog: New page: Compile FPCharacterSkyrim
+[2021.05.25-14.47.32:659][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2021.05.25-14.47.33:454][ 93]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/FPCharacterSkyrimEE53CDE44940E31D561B67A34185A4FF.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/BP_Skyrim/FPCharacterSkyrim.uasset'
+[2021.05.25-14.47.33:471][ 93]AssetCheck: New page: Asset Save: FPCharacterSkyrim
+[2021.05.25-14.47.33:471][ 93]LogContentValidation: Display: Validating Blueprint /Game/BP_Skyrim/FPCharacterSkyrim.FPCharacterSkyrim
+[2021.05.25-14.47.34:218][138]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-14.47.34:225][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-14.47.34:225][138]PIE: New page: PIE session: Outline_Skyrim (25 maj 2021, 18:47:34)
+[2021.05.25-14.47.34:225][138]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.47.34:246][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020394s)
+[2021.05.25-14.47.34:247][138]LogAIModule: Creating AISystem for world Outline_Skyrim
+[2021.05.25-14.47.34:247][138]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2021.05.25-14.47.34:247][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Skyrim.Outline_Skyrim to /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim (0.021652s)
+[2021.05.25-14.47.34:282][138]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.05.25-14.47.34:284][138]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.05.25-14.47.34:284][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-14.47.34:284][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-14.47.34:284][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-14.47.34:284][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-14.47.34:284][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-14.47.34:284][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-14.47.34:284][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-14.47.34:284][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-14.47.34:284][138]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-14.47.34:284][138]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-14.47.34:286][138]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-14.47.34:286][138]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-14.47.34:302][138]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.25-14.47.34:302][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-14.47.34:303][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-14.47.34:303][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-14.47.34:303][138]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-14.47.34:303][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-14.47.34:303][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-14.47.34:325][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-14.47.34:325][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-14.47.34:325][138]LogInit: FAudioDevice initialized.
+[2021.05.25-14.47.34:325][138]LogAudio: Display: Audio Device (ID: 6) registered with world 'Outline_Skyrim'.
+[2021.05.25-14.47.34:354][138]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.47.34:354][138]LogLoad: Game class is 'MazeGameMode_C'
+[2021.05.25-14.47.34:363][138]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim up for play (max tick rate 60) at 2021.05.25-16.47.34
+[2021.05.25-14.47.34:363][138]LogWorld: Bringing up level for play took: 0.007704
+[2021.05.25-14.47.34:363][138]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.05.25-14.47.34:365][138]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.25-14.47.34:366][138]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-14.47.34:368][138]PIE: Server logged in
+[2021.05.25-14.47.34:369][138]PIE: Play in editor total start time 0,146 seconds.
+[2021.05.25-14.47.38:218][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.47.38:218][359]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.47.38:218][359]LogSlate: Window 'MazeProto Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.25-14.47.38:227][359]LogWorld: UWorld::CleanupWorld for Outline_Skyrim, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-14.47.38:228][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.47.38:238][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-14.47.38:258][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.47.38:298][359]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-14.47.38:299][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.47.38:300][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.47.38:329][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.05.25-14.47.38:356][360]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.05.25-14.47.39:718][440]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-14.47.39:725][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-14.47.39:725][440]PIE: New page: PIE session: Outline_Skyrim (25 maj 2021, 18:47:39)
+[2021.05.25-14.47.39:725][440]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.47.39:745][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019270s)
+[2021.05.25-14.47.39:745][440]LogAIModule: Creating AISystem for world Outline_Skyrim
+[2021.05.25-14.47.39:746][440]LogPlayLevel: PIE: World Init took: (0.000972s)
+[2021.05.25-14.47.39:746][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Skyrim.Outline_Skyrim to /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim (0.020387s)
+[2021.05.25-14.47.39:777][440]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.05.25-14.47.39:778][440]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.05.25-14.47.39:778][440]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-14.47.39:778][440]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-14.47.39:778][440]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-14.47.39:778][440]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-14.47.39:778][440]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-14.47.39:778][440]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-14.47.39:778][440]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-14.47.39:778][440]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-14.47.39:779][440]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-14.47.39:779][440]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-14.47.39:781][440]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-14.47.39:781][440]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-14.47.39:796][440]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.25-14.47.39:796][440]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-14.47.39:797][440]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-14.47.39:797][440]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-14.47.39:797][440]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-14.47.39:797][440]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-14.47.39:797][440]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-14.47.39:817][440]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-14.47.39:817][440]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-14.47.39:817][440]LogInit: FAudioDevice initialized.
+[2021.05.25-14.47.39:818][440]LogAudio: Display: Audio Device (ID: 7) registered with world 'Outline_Skyrim'.
+[2021.05.25-14.47.39:842][440]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.47.39:842][440]LogLoad: Game class is 'MazeGameMode_C'
+[2021.05.25-14.47.39:850][440]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim up for play (max tick rate 60) at 2021.05.25-16.47.39
+[2021.05.25-14.47.39:851][440]LogWorld: Bringing up level for play took: 0.007823
+[2021.05.25-14.47.39:851][440]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.05.25-14.47.39:853][440]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.25-14.47.39:855][440]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-14.47.39:856][440]PIE: Server logged in
+[2021.05.25-14.47.39:858][440]PIE: Play in editor total start time 0,135 seconds.
+[2021.05.25-14.47.47:422][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.47.47:422][887]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.47.47:422][887]LogSlate: Window 'MazeProto Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.25-14.47.47:430][887]LogWorld: UWorld::CleanupWorld for Outline_Skyrim, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-14.47.47:432][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.47.47:442][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-14.47.47:461][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.47.47:491][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.47.47:492][887]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.47.47:521][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.05.25-14.47.47:546][888]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.05.25-14.48.51:203][693]BlueprintLog: New page: Compile FPCharacterSkyrim
+[2021.05.25-14.48.51:270][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.05.25-14.48.56:694][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-14.48.56:701][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-14.48.56:701][ 13]PIE: New page: PIE session: Outline_Skyrim (25 maj 2021, 18:48:56)
+[2021.05.25-14.48.56:701][ 13]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.48.56:720][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018802s)
+[2021.05.25-14.48.56:721][ 13]LogAIModule: Creating AISystem for world Outline_Skyrim
+[2021.05.25-14.48.56:721][ 13]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2021.05.25-14.48.56:722][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Skyrim.Outline_Skyrim to /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim (0.020137s)
+[2021.05.25-14.48.56:757][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2021.05.25-14.48.56:758][ 13]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.05.25-14.48.56:758][ 13]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-14.48.56:758][ 13]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-14.48.56:758][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-14.48.56:758][ 13]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-14.48.56:758][ 13]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-14.48.56:758][ 13]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-14.48.56:758][ 13]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-14.48.56:758][ 13]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-14.48.56:758][ 13]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-14.48.56:758][ 13]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-14.48.56:760][ 13]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-14.48.56:760][ 13]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-14.48.56:775][ 13]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.25-14.48.56:775][ 13]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-14.48.56:775][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-14.48.56:775][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-14.48.56:776][ 13]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-14.48.56:776][ 13]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-14.48.56:776][ 13]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-14.48.56:796][ 13]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-14.48.56:796][ 13]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-14.48.56:796][ 13]LogInit: FAudioDevice initialized.
+[2021.05.25-14.48.56:796][ 13]LogAudio: Display: Audio Device (ID: 8) registered with world 'Outline_Skyrim'.
+[2021.05.25-14.48.56:823][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.48.56:824][ 13]LogLoad: Game class is 'MazeGameMode_C'
+[2021.05.25-14.48.56:832][ 13]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim up for play (max tick rate 60) at 2021.05.25-16.48.56
+[2021.05.25-14.48.56:832][ 13]LogWorld: Bringing up level for play took: 0.007829
+[2021.05.25-14.48.56:832][ 13]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.05.25-14.48.56:834][ 13]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.25-14.48.56:835][ 13]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-14.48.56:836][ 13]PIE: Server logged in
+[2021.05.25-14.48.56:837][ 13]PIE: Play in editor total start time 0,139 seconds.
+[2021.05.25-14.49.04:254][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.49.04:254][444]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.49.04:255][444]LogSlate: Window 'MazeProto Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.25-14.49.04:261][444]LogWorld: UWorld::CleanupWorld for Outline_Skyrim, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-14.49.04:264][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.49.04:274][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-14.49.04:297][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.49.04:328][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-14.49.04:328][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.49.04:329][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.49.04:356][444]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.05.25-14.49.04:374][445]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.05.25-14.49.50:585][195]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Skyrim/InterractWithPuzzle.InterractWithPuzzle
+[2021.05.25-14.49.54:658][421]LogSlate: Window 'InterractWithPuzzle' being destroyed
+[2021.05.25-14.49.54:666][421]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-14.49.54:667][421]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.50.37:749][643]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2021.05.25-14.50.37:832][643]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Outline_Skyrim_Auto752DFBF244369468B4618518B4EB50536.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/Outline/Outline_Skyrim_Auto7.umap'
+[2021.05.25-14.50.37:839][643]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Outline/Outline_Skyrim' took 0.125
+[2021.05.25-14.50.37:839][643]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.125
+[2021.05.25-14.50.37:839][643]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_Skyrim/FPCharacterSkyrim] ([1] browsable assets)...
+[2021.05.25-14.50.37:839][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Skyrim/FPCharacterSkyrim]
+[2021.05.25-14.50.37:872][643]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/FPCharacterSkyrim_Auto7A7CA23644E5DF735D4B5D59A070B6E24.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/BP_Skyrim/FPCharacterSkyrim_Auto7.uasset'
+[2021.05.25-14.50.37:875][643]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Skyrim/lever] ([1] browsable assets)...
+[2021.05.25-14.50.37:904][643]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Skyrim/lever.lever]
+[2021.05.25-14.50.37:904][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Skyrim/lever]
+[2021.05.25-14.50.37:922][643]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/lever_Auto7CC556BBD4CD95733CF2F369D7857EC32.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/BP_Skyrim/lever_Auto7.uasset'
+[2021.05.25-14.50.37:923][643]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Skyrim/lever_2] ([1] browsable assets)...
+[2021.05.25-14.50.37:948][643]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Skyrim/lever_2.lever_2]
+[2021.05.25-14.50.37:948][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Skyrim/lever_2]
+[2021.05.25-14.50.37:965][643]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/lever_2_Auto7463F79394D5A3E0A3BE473A7A7163BEB.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/BP_Skyrim/lever_2_Auto7.uasset'
+[2021.05.25-14.50.37:966][643]LogFileHelpers: Auto-saving content packages took 0.128
+[2021.05.25-14.51.39:598][268]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.05.25-14.52.06:163][268]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.05.25-14.52.10:536][513]LogContentBrowser: Deferred new asset file creation: NewInterface
+[2021.05.25-14.52.10:553][513]LogContentBrowser: Creating deferred item: NewInterface
+[2021.05.25-14.52.16:112][840]LogContentBrowser: Attempting asset rename: NewInterface -> BPI_Interact
+[2021.05.25-14.52.16:116][840]LogContentBrowser: End creating deferred item NewInterface
+[2021.05.25-14.52.24:126][107]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Skyrim/BPI_Interact.BPI_Interact
+[2021.05.25-14.52.59:284][145]BlueprintLog: New page: Compile FPCharacterSkyrim
+[2021.05.25-14.52.59:354][145]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2021.05.25-14.53.02:506][297]BlueprintLog: New page: Compile BPI_Interact
+[2021.05.25-14.53.02:542][297]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.05.25-14.53.08:573][657]LogSlate: Window 'BPI_Interact' being destroyed
+[2021.05.25-14.53.42:114][154]LogSlate: Window 'Message' being destroyed
+[2021.05.25-14.53.42:121][154]Message dialog closed, result: No, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2021.05.25-14.53.44:450][275]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.25-14.54.42:991][665]BlueprintLog: New page: Compile FPCharacterSkyrim
+[2021.05.25-14.54.43:056][665]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.05.25-14.54.43:637][688]LogSavePackage: Moving '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Saved/FPCharacterSkyrimBCF53BDD4B40916D577D3896270AABEC.tmp' to '../../../../../../Users/Shedo/OneDrive/Dokumenty/GitHub/MazeEscapeUnreal/MazeProto/Content/BP_Skyrim/FPCharacterSkyrim.uasset'
+[2021.05.25-14.54.43:655][688]AssetCheck: New page: Asset Save: FPCharacterSkyrim
+[2021.05.25-14.54.43:655][688]LogContentValidation: Display: Validating Blueprint /Game/BP_Skyrim/FPCharacterSkyrim.FPCharacterSkyrim
+[2021.05.25-14.55.02:618][826]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-14.55.02:625][826]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.05.25-14.55.02:626][826]LogPlayLevel: [PlayLevel] Compiling BP_Puzzle before play...
+[2021.05.25-14.55.02:709][826]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2021.05.25-14.55.02:710][826]LogPlayLevel: PlayLevel: Blueprint regeneration took 84 ms (1 blueprints)
+[2021.05.25-14.55.02:710][826]PIE: New page: PIE session: Outline_Skyrim (25 maj 2021, 18:55:02)
+[2021.05.25-14.55.02:710][826]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.55.02:729][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019064s)
+[2021.05.25-14.55.02:730][826]LogAIModule: Creating AISystem for world Outline_Skyrim
+[2021.05.25-14.55.02:730][826]LogPlayLevel: PIE: World Init took: (0.000983s)
+[2021.05.25-14.55.02:730][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Skyrim.Outline_Skyrim to /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim (0.020182s)
+[2021.05.25-14.55.02:762][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.05.25-14.55.02:763][826]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.05.25-14.55.02:763][826]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-14.55.02:763][826]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-14.55.02:763][826]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-14.55.02:763][826]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-14.55.02:763][826]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-14.55.02:763][826]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-14.55.02:763][826]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-14.55.02:763][826]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-14.55.02:764][826]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-14.55.02:764][826]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-14.55.02:766][826]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-14.55.02:766][826]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-14.55.02:781][826]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.25-14.55.02:781][826]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-14.55.02:781][826]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-14.55.02:781][826]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-14.55.02:781][826]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-14.55.02:781][826]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-14.55.02:781][826]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-14.55.02:804][826]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-14.55.02:804][826]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-14.55.02:804][826]LogInit: FAudioDevice initialized.
+[2021.05.25-14.55.02:804][826]LogAudio: Display: Audio Device (ID: 9) registered with world 'Outline_Skyrim'.
+[2021.05.25-14.55.02:831][826]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.55.02:831][826]LogLoad: Game class is 'MazeGameMode_C'
+[2021.05.25-14.55.02:841][826]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim up for play (max tick rate 60) at 2021.05.25-16.55.02
+[2021.05.25-14.55.02:841][826]LogWorld: Bringing up level for play took: 0.009730
+[2021.05.25-14.55.02:841][826]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.05.25-14.55.02:843][826]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.25-14.55.02:844][826]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-14.55.02:846][826]PIE: Server logged in
+[2021.05.25-14.55.02:848][826]PIE: Play in editor total start time 0,225 seconds.
+[2021.05.25-14.55.11:177][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.55.11:178][310]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.55.11:178][310]LogSlate: Window 'MazeProto Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.25-14.55.11:186][310]LogWorld: UWorld::CleanupWorld for Outline_Skyrim, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-14.55.11:187][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.55.11:195][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-14.55.11:216][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.55.11:248][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.55.11:249][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.55.11:279][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.05.25-14.55.11:303][311]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.05.25-14.56.03:364][195]LogSlate: Window 'Message' being destroyed
+[2021.05.25-14.56.03:371][195]Message dialog closed, result: Yes, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2021.05.25-14.56.06:971][399]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.05.25-14.56.10:779][625]BlueprintLog: New page: Compile BP_Puzzle
+[2021.05.25-14.56.10:848][625]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2021.05.25-14.56.12:007][693]LogTemp: Repeating last play command: Selected Viewport
+[2021.05.25-14.56.12:015][693]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.05.25-14.56.12:015][693]PIE: New page: PIE session: Outline_Skyrim (25 maj 2021, 18:56:12)
+[2021.05.25-14.56.12:015][693]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.56.12:035][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019949s)
+[2021.05.25-14.56.12:035][693]LogAIModule: Creating AISystem for world Outline_Skyrim
+[2021.05.25-14.56.12:036][693]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2021.05.25-14.56.12:036][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Skyrim.Outline_Skyrim to /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim (0.020999s)
+[2021.05.25-14.56.12:070][693]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2021.05.25-14.56.12:071][693]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.05.25-14.56.12:072][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.05.25-14.56.12:072][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.05.25-14.56.12:072][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.05.25-14.56.12:072][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.05.25-14.56.12:072][693]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.05.25-14.56.12:072][693]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.05.25-14.56.12:072][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.05.25-14.56.12:072][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.05.25-14.56.12:072][693]LogAudio: Display: Using built-in audio occlusion.
+[2021.05.25-14.56.12:072][693]LogAudioMixer: Display: Initializing audio mixer.
+[2021.05.25-14.56.12:074][693]LogAudioMixer: Display: 0: FrontLeft
+[2021.05.25-14.56.12:074][693]LogAudioMixer: Display: 1: FrontRight
+[2021.05.25-14.56.12:089][693]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2021.05.25-14.56.12:090][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.05.25-14.56.12:090][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.05.25-14.56.12:090][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.05.25-14.56.12:090][693]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.05.25-14.56.12:090][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.05.25-14.56.12:090][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.05.25-14.56.12:112][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.05.25-14.56.12:112][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.05.25-14.56.12:112][693]LogInit: FAudioDevice initialized.
+[2021.05.25-14.56.12:112][693]LogAudio: Display: Audio Device (ID: 10) registered with world 'Outline_Skyrim'.
+[2021.05.25-14.56.12:133][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.56.12:133][693]LogLoad: Game class is 'MazeGameMode_C'
+[2021.05.25-14.56.12:141][693]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Skyrim.Outline_Skyrim up for play (max tick rate 60) at 2021.05.25-16.56.12
+[2021.05.25-14.56.12:141][693]LogWorld: Bringing up level for play took: 0.007573
+[2021.05.25-14.56.12:141][693]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.05.25-14.56.12:143][693]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.05.25-14.56.12:144][693]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.05.25-14.56.12:145][693]PIE: Server logged in
+[2021.05.25-14.56.12:146][693]PIE: Play in editor total start time 0,134 seconds.
+[2021.05.25-14.56.20:221][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.05.25-14.56.20:221][171]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Skyrim
+[2021.05.25-14.56.20:222][171]LogSlate: Window 'MazeProto Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.05.25-14.56.20:227][171]LogWorld: UWorld::CleanupWorld for Outline_Skyrim, bSessionEnded=true, bCleanupResources=true
+[2021.05.25-14.56.20:229][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.56.20:239][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.05.25-14.56.20:259][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.25-14.56.20:290][171]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.25-14.56.20:290][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.56.20:291][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.05.25-14.56.20:320][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.05.25-14.56.20:336][172]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.05.25-14.56.32:821][917]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.05.25-14.56.32:952][917]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.131 s
+[2021.05.25-14.56.32:952][917]LogOutputDevice: Error: === Handled ensure: ===
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: 
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:/Build/++UE4/Sync/Engine/Source/Editor/GraphEditor/Private/SGraphPin.cpp] [Line: 821]
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: The Graph Pin Object has been invalidate. Someone is keeping a hard ref on the SGraphPin. See InvalidateGraphData for more info
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: Stack: 
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff8fec9d149 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff8feb42141 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff8feb40db8 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff8feb4e88c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff8febc6b8c UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff8febc4089 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90d74fc19 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90d74faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90d751ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90d751ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:953][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90d74faa4 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90d751ec0 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b7748 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b4beb UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b4a55 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b3dc2 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b6d26 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b7857 UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c0e252a UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90c1b7aec UE4Editor-SlateCore.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90d51977e UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90d54b93e UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90d51a0d7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90d571e57 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff90d571659 UE4Editor-Slate.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff7ad7cae49 UE4Editor.exe!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff7ad7e117c UE4Editor.exe!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff7ad7e125a UE4Editor.exe!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff7ad7f52bd UE4Editor.exe!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff7ad7f7fea UE4Editor.exe!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff95bba7034 KERNEL32.DLL!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: [Callstack] 0x00007ff95d6e2651 ntdll.dll!UnknownFunction []
+[2021.05.25-14.56.32:954][917]LogOutputDevice: Error: 
