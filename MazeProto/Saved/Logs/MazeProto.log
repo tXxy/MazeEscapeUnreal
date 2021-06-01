@@ -1036,3 +1036,396 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.06.01-10.07.15:653][372]AssetCheck: New page: Asset Save: multiple assets
 [2021.06.01-10.07.15:653][372]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Outline/Outline_Dominik_BuiltData.Outline_Dominik_BuiltData
 [2021.06.01-10.07.15:653][372]LogContentValidation: Display: Validating World /Game/Outline/Outline_Dominik.Outline_Dominik
+[2021.06.01-10.17.15:676][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.06.01-10.17.15:677][418]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Outline/Outline_Dominik' took 0.007
+[2021.06.01-10.17.15:678][418]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Sound/fire1_2] ([1] browsable assets)...
+[2021.06.01-10.17.15:686][418]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Sound/fire1_2.fire1_2]
+[2021.06.01-10.17.15:686][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/Sound/fire1_2]
+[2021.06.01-10.17.15:691][418]LogSavePackage: Moving 'C:/Users/Dominik.Dominik-PC/Documents/GitHub/MazeEscapeUnreal/MazeProto/Saved/fire1_2_Auto12B142E404779880A36433595A5BFCEB8.tmp' to 'C:/Users/Dominik.Dominik-PC/Documents/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/Sound/fire1_2_Auto1.uasset'
+[2021.06.01-10.17.15:692][418]LogFileHelpers: Auto-saving content packages took 0.014
+[2021.06.01-10.31.23:569][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.06.01-10.31.28:620][ 79]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (fire1_Cue3)
+[2021.06.01-10.32.45:535][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_26)
+[2021.06.01-10.32.58:050][775]Cmd: EDIT COPY
+[2021.06.01-10.32.58:276][802]Cmd: EDIT PASTE
+[2021.06.01-10.33.15:537][709]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_FX_Fire2)
+[2021.06.01-10.33.16:084][756]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_FX_Fire2)
+[2021.06.01-10.33.16:522][806]LogEditorViewport: Clicking on Actor (LMB): AmbientSound (fire1_Cue)
+[2021.06.01-10.33.53:964][ 74]Cmd: DELETE
+[2021.06.01-10.33.53:964][ 74]Cmd: ACTOR DELETE
+[2021.06.01-10.33.53:967][ 74]LogEditorActor: Deleted Actor: AmbientSound
+[2021.06.01-10.33.53:974][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.06.01-10.33.53:976][ 74]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.06.01-10.34.19:746][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.06.01-10.34.19:784][364]LogSavePackage: Moving 'C:/Users/Dominik.Dominik-PC/Documents/GitHub/MazeEscapeUnreal/MazeProto/Saved/Outline_Dominik_Auto21ACC1CD9445C5F755FF12B944002BDAF.tmp' to 'C:/Users/Dominik.Dominik-PC/Documents/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/Outline/Outline_Dominik_Auto2.umap'
+[2021.06.01-10.34.19:786][364]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Outline/Outline_Dominik' took 0.047
+[2021.06.01-10.34.19:786][364]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2021.06.01-11.02.41:735][857]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Env_Rock_Skull_01)
+[2021.06.01-11.02.43:725][ 76]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Env_Rock_Large_011)
+[2021.06.01-11.02.57:356][636]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.01-11.02.57:362][636]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-11.02.57:362][636]PIE: New page: PIE session: Outline_Dominik (01.06.2021, 15:02:57)
+[2021.06.01-11.02.57:398][636]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.02.57:412][636]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014786s)
+[2021.06.01-11.02.57:413][636]LogAIModule: Creating AISystem for world Outline_Dominik
+[2021.06.01-11.02.57:413][636]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2021.06.01-11.02.57:413][636]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Dominik.Outline_Dominik to /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik (0.016187s)
+[2021.06.01-11.02.57:420][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.06.01-11.02.57:421][636]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.06.01-11.02.57:421][636]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-11.02.57:421][636]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-11.02.57:421][636]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-11.02.57:421][636]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-11.02.57:421][636]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-11.02.57:421][636]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-11.02.57:421][636]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-11.02.57:421][636]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-11.02.57:422][636]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-11.02.57:422][636]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-11.02.57:470][636]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-11.02.57:470][636]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-11.02.57:476][636]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2021.06.01-11.02.57:476][636]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-11.02.57:476][636]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-11.02.57:476][636]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-11.02.57:477][636]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.01-11.02.57:477][636]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-11.02.57:477][636]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-11.02.57:491][636]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-11.02.57:491][636]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-11.02.57:491][636]LogInit: FAudioDevice initialized.
+[2021.06.01-11.02.57:491][636]LogAudio: Display: Audio Device (ID: 6) registered with world 'Outline_Dominik'.
+[2021.06.01-11.02.57:499][636]LogLoad: Game class is 'MazeGameMode_C'
+[2021.06.01-11.02.57:503][636]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik up for play (max tick rate 0) at 2021.06.01-13.02.57
+[2021.06.01-11.02.57:504][636]LogWorld: Bringing up level for play took: 0.003889
+[2021.06.01-11.02.57:504][636]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.06.01-11.02.57:506][636]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.01-11.02.57:506][636]PIE: Server logged in
+[2021.06.01-11.02.57:507][636]PIE: Play in editor total start time 0,146 seconds.
+[2021.06.01-11.03.35:319][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.03.35:319][152]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.03.35:319][152]LogWorld: UWorld::CleanupWorld for Outline_Dominik, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.03.35:320][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.03.35:329][152]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-11.03.35:342][152]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.03.35:348][152]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-11.03.35:348][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.03.35:349][152]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.03.35:363][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.03.35:364][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.06.01-11.03.35:367][152]LogActorComponent: ReregisterComponent: (/Game/Outline/Outline_Dominik.Outline_Dominik:PersistentLevel.lava_Cue2.AudioComponent0) Not currently registered. Aborting.
+[2021.06.01-11.03.35:404][153]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.06.01-11.03.43:209][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_9)
+[2021.06.01-11.03.45:596][607]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.01-11.03.45:602][607]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-11.03.45:602][607]PIE: New page: PIE session: Outline_Dominik (01.06.2021, 15:03:45)
+[2021.06.01-11.03.45:629][607]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.03.45:637][607]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008530s)
+[2021.06.01-11.03.45:638][607]LogAIModule: Creating AISystem for world Outline_Dominik
+[2021.06.01-11.03.45:638][607]LogPlayLevel: PIE: World Init took: (0.000998s)
+[2021.06.01-11.03.45:638][607]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Dominik.Outline_Dominik to /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik (0.009695s)
+[2021.06.01-11.03.45:644][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.06.01-11.03.45:645][607]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.06.01-11.03.45:645][607]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-11.03.45:645][607]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-11.03.45:645][607]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-11.03.45:645][607]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-11.03.45:645][607]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-11.03.45:645][607]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-11.03.45:645][607]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-11.03.45:645][607]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-11.03.45:645][607]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-11.03.45:646][607]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-11.03.45:651][607]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-11.03.45:651][607]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-11.03.45:656][607]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2021.06.01-11.03.45:657][607]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-11.03.45:657][607]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-11.03.45:657][607]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-11.03.45:657][607]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.01-11.03.45:657][607]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-11.03.45:657][607]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-11.03.45:669][607]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-11.03.45:669][607]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-11.03.45:669][607]LogInit: FAudioDevice initialized.
+[2021.06.01-11.03.45:669][607]LogAudio: Display: Audio Device (ID: 7) registered with world 'Outline_Dominik'.
+[2021.06.01-11.03.45:677][607]LogLoad: Game class is 'MazeGameMode_C'
+[2021.06.01-11.03.45:681][607]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik up for play (max tick rate 0) at 2021.06.01-13.03.45
+[2021.06.01-11.03.45:682][607]LogWorld: Bringing up level for play took: 0.004120
+[2021.06.01-11.03.45:682][607]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.06.01-11.03.45:684][607]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.01-11.03.45:684][607]PIE: Server logged in
+[2021.06.01-11.03.45:685][607]PIE: Play in editor total start time 0,083 seconds.
+[2021.06.01-11.03.56:802][935]Cmd: RestartLevel
+[2021.06.01-11.03.56:810][936]LogNet: Browse: /Game/Outline/Outline_Dominik?restart
+[2021.06.01-11.03.56:811][936]LogLoad: LoadMap: /Game/Outline/Outline_Dominik
+[2021.06.01-11.03.56:811][936]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.03.56:811][936]LogWorld: UWorld::CleanupWorld for Outline_Dominik, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.03.56:811][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.03.56:854][936]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-11.03.56:856][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.06.01-11.03.56:856][936]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.03.56:866][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009042s)
+[2021.06.01-11.03.56:866][936]LogAIModule: Creating AISystem for world Outline_Dominik
+[2021.06.01-11.03.56:866][936]LogPlayLevel: PIE: World Init took: (0.000856s)
+[2021.06.01-11.03.56:867][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Dominik.Outline_Dominik to /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik (0.010039s)
+[2021.06.01-11.03.56:867][936]LogAudio: Display: Audio Device (ID: 7) registered with world 'Outline_Dominik'.
+[2021.06.01-11.03.56:867][936]LogLoad: Game class is 'MazeGameMode_C'
+[2021.06.01-11.03.56:869][936]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik up for play (max tick rate 0) at 2021.06.01-13.03.56
+[2021.06.01-11.03.56:870][936]LogWorld: Bringing up level for play took: 0.002573
+[2021.06.01-11.03.56:872][936]LogLoad: Took 0.061857 seconds to LoadMap(/Game/Outline/UEDPIE_0_Outline_Dominik)
+[2021.06.01-11.04.09:565][453]Cmd: RestartLevel
+[2021.06.01-11.04.09:574][454]LogNet: Browse: /Game/Outline/Outline_Dominik?restart
+[2021.06.01-11.04.09:574][454]LogLoad: LoadMap: /Game/Outline/Outline_Dominik
+[2021.06.01-11.04.09:574][454]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.04.09:574][454]LogWorld: UWorld::CleanupWorld for Outline_Dominik, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.04.09:575][454]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.04.09:614][454]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-11.04.09:616][454]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.06.01-11.04.09:617][454]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.04.09:626][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008945s)
+[2021.06.01-11.04.09:627][454]LogAIModule: Creating AISystem for world Outline_Dominik
+[2021.06.01-11.04.09:627][454]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2021.06.01-11.04.09:627][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Dominik.Outline_Dominik to /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik (0.010020s)
+[2021.06.01-11.04.09:627][454]LogAudio: Display: Audio Device (ID: 7) registered with world 'Outline_Dominik'.
+[2021.06.01-11.04.09:627][454]LogLoad: Game class is 'MazeGameMode_C'
+[2021.06.01-11.04.09:630][454]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik up for play (max tick rate 0) at 2021.06.01-13.04.09
+[2021.06.01-11.04.09:630][454]LogWorld: Bringing up level for play took: 0.002546
+[2021.06.01-11.04.09:632][454]LogLoad: Took 0.057597 seconds to LoadMap(/Game/Outline/UEDPIE_0_Outline_Dominik)
+[2021.06.01-11.04.13:430][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.04.13:430][900]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.04.13:430][900]LogWorld: UWorld::CleanupWorld for Outline_Dominik, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.04.13:431][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.04.13:441][900]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-11.04.13:455][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.04.13:460][900]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.04.13:461][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.04.13:462][900]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.04.13:477][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.06.01-11.04.13:478][900]LogActorComponent: ReregisterComponent: (/Game/Outline/Outline_Dominik.Outline_Dominik:PersistentLevel.lava_Cue2.AudioComponent0) Not currently registered. Aborting.
+[2021.06.01-11.04.13:516][901]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.06.01-11.04.16:697][235]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Env_Rock_Large_18)
+[2021.06.01-11.04.17:710][325]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.01-11.04.17:716][325]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-11.04.17:716][325]PIE: New page: PIE session: Outline_Dominik (01.06.2021, 15:04:17)
+[2021.06.01-11.04.17:739][325]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.04.17:748][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008713s)
+[2021.06.01-11.04.17:748][325]LogAIModule: Creating AISystem for world Outline_Dominik
+[2021.06.01-11.04.17:748][325]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2021.06.01-11.04.17:749][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Dominik.Outline_Dominik to /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik (0.009792s)
+[2021.06.01-11.04.17:754][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.06.01-11.04.17:754][325]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.06.01-11.04.17:754][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-11.04.17:754][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-11.04.17:754][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-11.04.17:754][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-11.04.17:754][325]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-11.04.17:754][325]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-11.04.17:754][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-11.04.17:754][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-11.04.17:755][325]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-11.04.17:755][325]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-11.04.17:760][325]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-11.04.17:760][325]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-11.04.17:766][325]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2021.06.01-11.04.17:766][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-11.04.17:766][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-11.04.17:766][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-11.04.17:766][325]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.01-11.04.17:766][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-11.04.17:766][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-11.04.17:779][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-11.04.17:779][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-11.04.17:779][325]LogInit: FAudioDevice initialized.
+[2021.06.01-11.04.17:779][325]LogAudio: Display: Audio Device (ID: 8) registered with world 'Outline_Dominik'.
+[2021.06.01-11.04.17:792][325]LogLoad: Game class is 'MazeGameMode_C'
+[2021.06.01-11.04.17:796][325]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik up for play (max tick rate 0) at 2021.06.01-13.04.17
+[2021.06.01-11.04.17:796][325]LogWorld: Bringing up level for play took: 0.003544
+[2021.06.01-11.04.17:796][325]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.06.01-11.04.17:799][325]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.01-11.04.17:799][325]PIE: Server logged in
+[2021.06.01-11.04.17:799][325]PIE: Play in editor total start time 0,085 seconds.
+[2021.06.01-11.04.26:005][304]Cmd: RestartLevel
+[2021.06.01-11.04.26:013][305]LogNet: Browse: /Game/Outline/Outline_Dominik?restart
+[2021.06.01-11.04.26:013][305]LogLoad: LoadMap: /Game/Outline/Outline_Dominik
+[2021.06.01-11.04.26:013][305]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.04.26:013][305]LogWorld: UWorld::CleanupWorld for Outline_Dominik, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.04.26:014][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.04.26:044][305]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-11.04.26:046][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.06.01-11.04.26:047][305]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.04.26:056][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009429s)
+[2021.06.01-11.04.26:057][305]LogAIModule: Creating AISystem for world Outline_Dominik
+[2021.06.01-11.04.26:057][305]LogPlayLevel: PIE: World Init took: (0.001072s)
+[2021.06.01-11.04.26:058][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Dominik.Outline_Dominik to /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik (0.010697s)
+[2021.06.01-11.04.26:058][305]LogAudio: Display: Audio Device (ID: 8) registered with world 'Outline_Dominik'.
+[2021.06.01-11.04.26:058][305]LogLoad: Game class is 'MazeGameMode_C'
+[2021.06.01-11.04.26:060][305]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik up for play (max tick rate 0) at 2021.06.01-13.04.26
+[2021.06.01-11.04.26:061][305]LogWorld: Bringing up level for play took: 0.002619
+[2021.06.01-11.04.26:063][305]LogLoad: Took 0.050501 seconds to LoadMap(/Game/Outline/UEDPIE_0_Outline_Dominik)
+[2021.06.01-11.04.26:230][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.04.26:230][317]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.04.26:230][317]LogWorld: UWorld::CleanupWorld for Outline_Dominik, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.04.26:231][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.04.26:237][317]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-11.04.26:251][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.04.26:256][317]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-11.04.26:256][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.04.26:257][317]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.04.26:271][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.04.26:273][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.06.01-11.04.26:274][317]LogActorComponent: ReregisterComponent: (/Game/Outline/Outline_Dominik.Outline_Dominik:PersistentLevel.lava_Cue2.AudioComponent0) Not currently registered. Aborting.
+[2021.06.01-11.04.26:311][318]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.06.01-11.04.28:511][544]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_25)
+[2021.06.01-11.04.30:970][798]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.01-11.04.30:976][798]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-11.04.30:976][798]PIE: New page: PIE session: Outline_Dominik (01.06.2021, 15:04:30)
+[2021.06.01-11.04.31:019][798]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.04.31:028][798]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008947s)
+[2021.06.01-11.04.31:029][798]LogAIModule: Creating AISystem for world Outline_Dominik
+[2021.06.01-11.04.31:029][798]LogPlayLevel: PIE: World Init took: (0.001110s)
+[2021.06.01-11.04.31:029][798]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Dominik.Outline_Dominik to /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik (0.010227s)
+[2021.06.01-11.04.31:034][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.06.01-11.04.31:035][798]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.06.01-11.04.31:035][798]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-11.04.31:035][798]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-11.04.31:035][798]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-11.04.31:035][798]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-11.04.31:035][798]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-11.04.31:035][798]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-11.04.31:035][798]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-11.04.31:035][798]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-11.04.31:036][798]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-11.04.31:036][798]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-11.04.31:041][798]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-11.04.31:041][798]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-11.04.31:048][798]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2021.06.01-11.04.31:048][798]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-11.04.31:048][798]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-11.04.31:048][798]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-11.04.31:048][798]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.01-11.04.31:048][798]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-11.04.31:048][798]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-11.04.31:063][798]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-11.04.31:063][798]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-11.04.31:063][798]LogInit: FAudioDevice initialized.
+[2021.06.01-11.04.31:063][798]LogAudio: Display: Audio Device (ID: 9) registered with world 'Outline_Dominik'.
+[2021.06.01-11.04.31:070][798]LogLoad: Game class is 'MazeGameMode_C'
+[2021.06.01-11.04.31:074][798]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik up for play (max tick rate 0) at 2021.06.01-13.04.31
+[2021.06.01-11.04.31:075][798]LogWorld: Bringing up level for play took: 0.003853
+[2021.06.01-11.04.31:075][798]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.06.01-11.04.31:077][798]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.01-11.04.31:077][798]PIE: Server logged in
+[2021.06.01-11.04.31:078][798]PIE: Play in editor total start time 0,103 seconds.
+[2021.06.01-11.04.33:100][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.04.33:100][ 33]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.04.33:100][ 33]LogWorld: UWorld::CleanupWorld for Outline_Dominik, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.04.33:101][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.04.33:111][ 33]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-11.04.33:125][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.04.33:130][ 33]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.04.33:130][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.04.33:131][ 33]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.04.33:147][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.06.01-11.04.33:149][ 33]LogActorComponent: ReregisterComponent: (/Game/Outline/Outline_Dominik.Outline_Dominik:PersistentLevel.lava_Cue2.AudioComponent0) Not currently registered. Aborting.
+[2021.06.01-11.04.33:186][ 34]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.06.01-11.04.41:546][970]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Env_Rock_Large_18)
+[2021.06.01-11.04.58:515][736]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2021.06.01-11.04.59:100][796]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube)
+[2021.06.01-11.05.35:769][701]LogStaticMesh: Building static mesh SM_Env_Tree_Base_02...
+[2021.06.01-11.05.35:796][701]LogStaticMesh: Built static mesh [0.03s] /Game/PolygonPirates/Meshes/Environments/SM_Env_Tree_Base_02.SM_Env_Tree_Base_02
+[2021.06.01-11.05.35:891][705]LogActorFactory: Actor Factory created SM_Env_Tree_Base_02
+[2021.06.01-11.05.37:595][860]LogActorFactory: Actor Factory created SM_Env_Tree_Base_02
+[2021.06.01-11.05.43:587][543]Cmd: EDIT COPY
+[2021.06.01-11.05.43:908][578]Cmd: EDIT PASTE
+[2021.06.01-11.06.01:833][509]Cmd: EDIT COPY
+[2021.06.01-11.06.02:145][524]Cmd: EDIT PASTE
+[2021.06.01-11.06.27:086][187]Cmd: EDIT COPY
+[2021.06.01-11.06.27:362][200]Cmd: EDIT PASTE
+[2021.06.01-11.06.28:792][353]Cmd: TRANSACTION UNDO
+[2021.06.01-11.06.28:792][353]LogEditorTransaction: Undo Paste
+[2021.06.01-11.06.29:654][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_Base_3)
+[2021.06.01-11.06.30:173][470]Cmd: EDIT COPY
+[2021.06.01-11.06.30:490][504]Cmd: EDIT PASTE
+[2021.06.01-11.06.35:236][990]Cmd: EDIT COPY
+[2021.06.01-11.06.35:478][ 16]Cmd: EDIT PASTE
+[2021.06.01-11.06.43:251][880]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_24)
+[2021.06.01-11.06.46:751][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_24)
+[2021.06.01-11.06.47:217][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Flowers_02)
+[2021.06.01-11.06.49:422][563]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Env_Rock_Large_24)
+[2021.06.01-11.07.10:084][723]LogActorFactory: Actor Factory created SM_Env_Tree_Dead_01
+[2021.06.01-11.07.10:392][743]LogActorFactory: Actor Factory created SM_Env_Tree_Dead_01
+[2021.06.01-11.08.13:291][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.06.01-11.08.13:331][210]LogSavePackage: Moving 'C:/Users/Dominik.Dominik-PC/Documents/GitHub/MazeEscapeUnreal/MazeProto/Saved/Outline_Dominik_Auto333A354B14F35A016A2833E8663B16AA9.tmp' to 'C:/Users/Dominik.Dominik-PC/Documents/GitHub/MazeEscapeUnreal/MazeProto/Saved/Autosaves/Game/Outline/Outline_Dominik_Auto3.umap'
+[2021.06.01-11.08.13:332][210]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Outline/Outline_Dominik' took 0.053
+[2021.06.01-11.08.13:333][210]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2021.06.01-11.08.41:033][592]LogActorFactory: Actor Factory created SM_Env_Rock_01
+[2021.06.01-11.08.42:808][700]LogActorFactory: Actor Factory created SM_Env_Rock_01
+[2021.06.01-11.09.42:205][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_04)
+[2021.06.01-11.09.51:596][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_Vines_14)
+[2021.06.01-11.09.53:254][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_Base_4)
+[2021.06.01-11.09.53:748][266]Cmd: EDIT COPY
+[2021.06.01-11.09.54:001][294]Cmd: EDIT PASTE
+[2021.06.01-11.10.05:752][553]LogTemp: Repeating last play command: Selected Viewport
+[2021.06.01-11.10.05:758][553]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.06.01-11.10.05:758][553]PIE: New page: PIE session: Outline_Dominik (01.06.2021, 15:10:05)
+[2021.06.01-11.10.05:784][553]LogPlayLevel: Creating play world package: /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.10.05:793][553]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009425s)
+[2021.06.01-11.10.05:794][553]LogAIModule: Creating AISystem for world Outline_Dominik
+[2021.06.01-11.10.05:794][553]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2021.06.01-11.10.05:794][553]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Outline/Outline_Dominik.Outline_Dominik to /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik (0.010688s)
+[2021.06.01-11.10.05:801][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.06.01-11.10.05:802][553]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.06.01-11.10.05:802][553]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.06.01-11.10.05:802][553]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.06.01-11.10.05:802][553]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.06.01-11.10.05:802][553]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.06.01-11.10.05:802][553]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.06.01-11.10.05:802][553]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.06.01-11.10.05:802][553]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.06.01-11.10.05:802][553]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.06.01-11.10.05:803][553]LogAudio: Display: Using built-in audio occlusion.
+[2021.06.01-11.10.05:803][553]LogAudioMixer: Display: Initializing audio mixer.
+[2021.06.01-11.10.05:808][553]LogAudioMixer: Display: 0: FrontLeft
+[2021.06.01-11.10.05:808][553]LogAudioMixer: Display: 1: FrontRight
+[2021.06.01-11.10.05:815][553]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2021.06.01-11.10.05:815][553]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.06.01-11.10.05:815][553]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.06.01-11.10.05:815][553]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.06.01-11.10.05:816][553]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.06.01-11.10.05:816][553]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.06.01-11.10.05:816][553]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.06.01-11.10.05:829][553]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.06.01-11.10.05:829][553]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.06.01-11.10.05:829][553]LogInit: FAudioDevice initialized.
+[2021.06.01-11.10.05:829][553]LogAudio: Display: Audio Device (ID: 10) registered with world 'Outline_Dominik'.
+[2021.06.01-11.10.05:841][553]LogLoad: Game class is 'MazeGameMode_C'
+[2021.06.01-11.10.05:846][553]LogWorld: Bringing World /Game/Outline/UEDPIE_0_Outline_Dominik.Outline_Dominik up for play (max tick rate 0) at 2021.06.01-13.10.05
+[2021.06.01-11.10.05:846][553]LogWorld: Bringing up level for play took: 0.004378
+[2021.06.01-11.10.05:846][553]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.06.01-11.10.05:849][553]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.06.01-11.10.05:849][553]PIE: Server logged in
+[2021.06.01-11.10.05:850][553]PIE: Play in editor total start time 0,093 seconds.
+[2021.06.01-11.10.20:085][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.10.20:085][165]LogWorld: BeginTearingDown for /Game/Outline/UEDPIE_0_Outline_Dominik
+[2021.06.01-11.10.20:085][165]LogWorld: UWorld::CleanupWorld for Outline_Dominik, bSessionEnded=true, bCleanupResources=true
+[2021.06.01-11.10.20:086][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.10.20:091][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.06.01-11.10.20:105][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.06.01-11.10.20:110][165]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.06.01-11.10.20:110][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.10.20:111][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.06.01-11.10.20:128][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.06.01-11.10.20:130][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.06.01-11.10.20:131][165]LogActorComponent: ReregisterComponent: (/Game/Outline/Outline_Dominik.Outline_Dominik:PersistentLevel.lava_Cue2.AudioComponent0) Not currently registered. Aborting.
+[2021.06.01-11.10.20:162][166]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.06.01-11.10.20:922][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Tree_Base_3)
+[2021.06.01-11.10.32:390][434]Cmd: SELECT NONE
+[2021.06.01-11.10.53:285][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Env_Rock_Large_04)
+[2021.06.01-11.10.54:419][964]Cmd: SELECT NONE
+[2021.06.01-11.10.55:574][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.06.01-11.10.55:614][ 98]LogSavePackage: Moving 'C:/Users/Dominik.Dominik-PC/Documents/GitHub/MazeEscapeUnreal/MazeProto/Saved/Outline_Dominik04B6CDAA424E173B1281FE8F9639C811.tmp' to 'C:/Users/Dominik.Dominik-PC/Documents/GitHub/MazeEscapeUnreal/MazeProto/Content/Outline/Outline_Dominik.umap'
+[2021.06.01-11.10.55:835][ 98]LogSavePackage: Moving 'C:/Users/Dominik.Dominik-PC/Documents/GitHub/MazeEscapeUnreal/MazeProto/Saved/Outline_Dominik_BuiltDataFE2A693D412C11CF764CA7B921306A70.tmp' to 'C:/Users/Dominik.Dominik-PC/Documents/GitHub/MazeEscapeUnreal/MazeProto/Content/Outline/Outline_Dominik_BuiltData.uasset'
+[2021.06.01-11.10.55:851][ 98]AssetCheck: New page: Asset Save: multiple assets
+[2021.06.01-11.10.55:851][ 98]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Outline/Outline_Dominik_BuiltData.Outline_Dominik_BuiltData
+[2021.06.01-11.10.55:851][ 98]LogContentValidation: Display: Validating World /Game/Outline/Outline_Dominik.Outline_Dominik
